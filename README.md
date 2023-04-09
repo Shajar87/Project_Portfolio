@@ -1,4 +1,3 @@
 # Project_Portfolio
-Data Analytics Projects
-This repository will contain all the data analytics projects
+###Welcome to My Portfolio
 ## [Project 1: 120 Years of Olympic History Analysis Using SQL]
