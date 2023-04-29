@@ -22,10 +22,8 @@
 
 ## [Project 2: Data Professional Survey Breakdown](https://github.com/Shajar87/Project_Portfolio/blob/main/BI%20Project%201.pbix)
 ### About The Project
-**This is a Power BI dashboard for the data professionals' survey data taken from the internet.**
-
 In this project, I used the data from a survey of data professionals available on the internet.
-**Dataset Link**(https://github.com/Shajar87/Project_Portfolio/blob/main/Data%20Professionals%20Survey%20Data.csv)
+**Dataset Link**(https://github.com/Shajar87/Project_Portfolio/blob/main/Data%20Professionals%20Survey%20Data.xlsx)
 
 Firstly, the data was loaded and transformed in Power BI.
 Then I used some of the DAX functions to create this dashboard.
