@@ -23,11 +23,13 @@ Used some of the common and advanced SQL concepts such as window functions, CTEs
 ## [Project 2: Data Professional Survey Breakdown](https://github.com/Shajar87/Project_Portfolio/blob/main/BI%20Project%201.pbix)
 ### About The Project
 In this project, I used the data from a survey of data professionals available on the internet.
+
 **Dataset Link** 
 https://github.com/Shajar87/Project_Portfolio/blob/main/Data%20Professionals%20Survey%20Data.xlsx
 
 Firstly, the data was loaded and transformed in Power BI.
 Then I used some of the DAX functions to create this dashboard.
+
 **Some of the key findings are:**
 1. The most commonly used programming languages among data professionals are Python, SQL, and R.
 2. Data professionals on average earn a high salary, with an average salary of around $60k per year.
@@ -35,9 +37,10 @@ Then I used some of the DAX functions to create this dashboard.
 
 ## [Project 3: Zomato Bangalore Restaurants Project](https://www.kaggle.com/code/mohd647/zomato-bangalore-data-eda)
 ### About The Project
-**In this project, I did exploratory data analysis of Zomato data of Bangalore-based restaurants.**
+In this project, I did exploratory data analysis of Zomato data of Bangalore-based restaurants.
 The dataset used in this project was taken from Kaggle.
 The task was to perform exploratory data analysis to uncover insights of restaurants' menus and services. From identifying popular cuisines to analyzing ratings and reviews.
+
 **The steps involved in this project were:**
 1. Dropping some irrelevant columns.
 2. Renaming some columns for easiness of analysis.
@@ -48,6 +51,7 @@ The task was to perform exploratory data analysis to uncover insights of restaur
 ### About The Project
 In this project, the aim is to predict the sales of stores located in the USA with the help of machine learning techniques using different features given in the dataset.
 The dataset used was taken from Kaggle.  I have to predict sales of US stores.
+
 **The steps involved were as:**
 1. Data cleaning
 2. Exploratory Data Cleaning
@@ -58,6 +62,7 @@ The dataset used was taken from Kaggle.  I have to predict sales of US stores.
 ### About The Project
 Accenture  cliet, Social Buzz is a tech company currently facing big data problem management and it wants to expand using its users’ data.
 Accenture has to provide a solution to its client Social Buzz.
+
 **Dataset Link:**
 https://github.com/Shajar87/Project_Portfolio/blob/main/Social%20Buzz%20data.xlsx
 
@@ -83,6 +88,7 @@ I used the following tables for this case study:
 4. orders 
 5. users 
 6. order_details
+
 **Dataset link:** 
 https://1drv.ms/f/s!AsMxqQCn5C9wkUQ14R5SAF9ULzXS?e=Q7KHrG
 
