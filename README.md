@@ -58,27 +58,7 @@ The dataset used was taken from Kaggle.  I have to predict sales of US stores.
 3. Encoding of categorical features
 4. Building Machine learning model using the machine-learning technique (Random Forest Regressor)
 
-## [Project 5: An analysis on data of Social Buzz’s Users](https://github.com/Shajar87/Project_Portfolio/blob/main/Social%20Buzz%20data%20analysis.pptx)
-### About The Project
-Accenture  cliet, Social Buzz is a tech company currently facing big data problem management and it wants to expand using its users’ data.
-Accenture has to provide a solution to its client Social Buzz.
-
-**Dataset Link:**
-https://github.com/Shajar87/Project_Portfolio/blob/main/Social%20Buzz%20data.xlsx
-
-I need to deliver the following tasks:
-1. Finding the top 5 content categories
-2. An Audit of its big data practice
-3. Recommendation for a successful IPO
-
-**The steps involved in this project were:**
-1. Firstly, I gathered the requirements of the project.
-2. Cleaned the data using Excel.
-3. Did data modeling
-4. Data analysis
-5. Presenting the findings
-
-## [Project 6: Swiggy Case Study using SQL](https://github.com/Shajar87/Project_Portfolio/blob/main/swiggy%20case%20study%20project.xlsx)
+## [Project 5: Swiggy Case Study using SQL](https://github.com/Shajar87/Project_Portfolio/blob/main/swiggy%20case%20study%20project.xlsx)
 ### About The Project
 The project was a short case study on Swiggy data.
 I used the following tables for this case study:
@@ -103,6 +83,28 @@ Used MySQL for queries and found the answers of the following questions:
 8. Customer - favorite food
 9. Find the most loyal customers for all restaurant
 10. Month-over-month revenue growth of a restaurant
+
+
+## [Project 6: An analysis on data of Social Buzz’s Users](https://github.com/Shajar87/Project_Portfolio/blob/main/Social%20Buzz%20data%20analysis.pptx)
+### About The Project
+Accenture  cliet, Social Buzz is a tech company currently facing big data problem management and it wants to expand using its users’ data.
+Accenture has to provide a solution to its client Social Buzz.
+
+**Dataset Link:**
+https://github.com/Shajar87/Project_Portfolio/blob/main/Social%20Buzz%20data.xlsx
+
+I need to deliver the following tasks:
+1. Finding the top 5 content categories
+2. An Audit of its big data practice
+3. Recommendation for a successful IPO
+
+**The steps involved in this project were:**
+1. Firstly, I gathered the requirements of the project.
+2. Cleaned the data using Excel.
+3. Did data modeling
+4. Data analysis
+5. Presenting the findings
+
 
 
 
