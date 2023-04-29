@@ -1,6 +1,6 @@
-# Welcome to My Project Portfolio
-![](![Blue Professional Modern Minimalist Simple Clean LinkedIn Career Page Background](https://user-images.githubusercontent.com/109920774/235307490-cc3f5a1c-1446-4ba8-9694-bdcae5b58e91.png)
+![Project Portfolio](![Blue Professional Modern Minimalist Simple Clean LinkedIn Career Page Background](https://user-images.githubusercontent.com/109920774/235307490-cc3f5a1c-1446-4ba8-9694-bdcae5b58e91.png)
 )
+# Welcome to My Project Portfolio
 ## [Project 1: 120 Years of Olympic History Analysis Using SQL](https://github.com/Shajar87/Project_Portfolio/blob/main/Olympic%20History%20Analysis.pdf)
 ### About The Project
 **In this project "120 years of Olympic history",I used SQL queries to answer some fascinating questions about the games.**
