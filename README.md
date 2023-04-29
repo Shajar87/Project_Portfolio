@@ -119,7 +119,7 @@ I need to deliver the following tasks:
 4. Data analysis
 5. Presenting the findings
 
-**Its not the end of learning. More in the list**
+**Its not the end of learning. More in the list.**
 
 ### Thank You For Visiting my Portfolio
 
