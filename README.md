@@ -19,6 +19,7 @@
 11. Identify which country won the most gold, silver, and bronze medals and the most medals in each Olympic game.
 12. Which countries have never won gold medals but have won silver/bronze medals?
 13. Break down all Olympic games where India won a medal in Hockey and how many medals in each Olympic game.
+
 ## [Project 2: Data Professional Survey Breakdown](https://github.com/Shajar87/Project_Portfolio/blob/main/BI%20Project%201.pbix)
 **This is a Power BI dashboard for the data professionals' survey data taken from the internet.**
 
@@ -31,4 +32,13 @@ The most commonly used programming languages among data professionals are Python
 Data professionals on average earn a high salary, with an average salary of around $60k per year.
 The Average Salary of Data scientists is greater than the other data profiles, etc.
 
+## [Project 2:Zomato Bangalore Restaurants Project](https://www.kaggle.com/code/mohd647/zomato-bangalore-data-eda)
+**In this project, I did exploratory data analysis of Zomato data of Bangalore-based restaurants.**
+The dataset used in this project was taken from Kaggle.
+The task was to perform exploratory data analysis to uncover insights of restaurants' menus and services. From identifying popular cuisines to analyzing ratings and reviews.
+**The steps involved in this project were:**
+1.Dropping some irrelevant columns.
+2.Renaming some columns for easiness of analysis.
+3.Some more data cleaning
+4.Finally, exploratory data analysis.
 
