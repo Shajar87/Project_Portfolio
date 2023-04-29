@@ -71,4 +71,27 @@ I need to deliver the following tasks:
 4. Data analysis
 5. Presenting the findings
 
-## [Project 6: Swiggy Case Study using SQL](
+## [Project 6: Swiggy Case Study using SQL](https://github.com/Shajar87/Project_Portfolio/blob/main/swiggy%20case%20study%20project.xlsx)
+### About The Project
+The project was a short case study on Swiggy data.
+I used the following tables for this case study:
+1. Food
+2. menu
+3. restaurants 
+4. orders 
+5. users 
+6. order_details
+Used MySQL for queries and found the answers of the following questions:
+1. Find customers who have never ordered
+2. Average Price/dish
+3. Find the top restaurant in terms of the number of orders for a given month
+4. restaurants with monthly sales greater than x for
+5. Show all orders with order details for a particular customer in a particular date range
+6. Find restaurants with max repeated   customers
+7. Month-over-month revenue growth of Swiggy
+8. Customer - favorite food
+9. Find the most loyal customers for all restaurant
+10. Month-over-month revenue growth of a restaurant
+
+
+
