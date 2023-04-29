@@ -81,6 +81,7 @@ I used the following tables for this case study:
 4. orders 
 5. users 
 6. order_details
+**Dataset Link**(https://github.com/Shajar87/Project_Portfolio/blob/main/Data%20Professionals%20Survey%20Data.csv)
 Used MySQL for queries and found the answers of the following questions:
 1. Find customers who have never ordered
 2. Average Price/dish
