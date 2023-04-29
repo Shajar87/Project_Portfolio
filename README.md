@@ -6,18 +6,18 @@
 
 **Used some of the common and advanced SQL concepts such as window functions, CTEs, subqueries, and more to answer the queations as below:
 
-How many Olympic games have been held?
-List down all Olympics games held so far.
-Mention the total no of nations who participated in each Olympics game.
-Which year saw the highest and lowest no of countries participating in the Olympics?
-Identify the sport which was played in all summer Olympics.
-Fetch details of the oldest athletes to win a gold medal.
-Find the Ratio of male and female athletes who participated in all Olympic games.
-Fetch the top 5 athletes who have won the most medals (gold/silver/bronze).
-Fetch the top 5 most successful countries in the olympics.
-List down the total gold, silver, and bronze medals won by each country corresponding to each Olympic game.
-Identify which country won the most gold, silver, and bronze medals and the most medals in each Olympic game.
-Which countries have never won gold medals but have won silver/bronze medals?
-Break down all Olympic games where India won a medal in Hockey and how many medals in each Olympic game.**dd
+1. How many Olympic games have been held?
+2. List down all Olympics games held so far.
+3. Mention the total no of nations who participated in each Olympics game.
+4. Which year saw the highest and lowest no of countries participating in the Olympics?
+5. Identify the sport which was played in all summer Olympics.
+6. Fetch details of the oldest athletes to win a gold medal.
+7. Find the Ratio of male and female athletes who participated in all Olympic games.
+8. Fetch the top 5 athletes who have won the most medals (gold/silver/bronze).
+9. Fetch the top 5 most successful countries in the olympics.
+10. List down the total gold, silver, and bronze medals won by each country corresponding to each Olympic game.
+11. Identify which country won the most gold, silver, and bronze medals and the most medals in each Olympic game.
+12. Which countries have never won gold medals but have won silver/bronze medals?
+13. Break down all Olympic games where India won a medal in Hockey and how many medals in each Olympic game.
 ## [Project 2: Data Professional Survey Breakdown](https://github.com/Shajar87/Project_Portfolio/blob/main/BI%20Project%201.pbix)
 
