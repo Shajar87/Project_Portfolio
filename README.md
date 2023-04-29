@@ -20,4 +20,14 @@
 12. Which countries have never won gold medals but have won silver/bronze medals?
 13. Break down all Olympic games where India won a medal in Hockey and how many medals in each Olympic game.
 ## [Project 2: Data Professional Survey Breakdown](https://github.com/Shajar87/Project_Portfolio/blob/main/BI%20Project%201.pbix)
+**This is a Power BI dashboard for the data professionals' survey data taken from the internet.**
+In this project, I used the data from a survey of data professionals available on the internet.
+
+Firstly, the data was loaded and transformed in Power BI.
+Then I used some of the DAX functions to create this dashboard.
+**Some of the key findings are:**
+The most commonly used programming languages among data professionals are Python, SQL, and R.
+Data professionals on average earn a high salary, with an average salary of around $60k per year.
+The Average Salary of Data scientists is greater than the other data profiles, etc.
+
 
