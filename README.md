@@ -39,20 +39,20 @@ The Average Salary of Data scientists is greater than the other data profiles, e
 The dataset used in this project was taken from Kaggle.
 The task was to perform exploratory data analysis to uncover insights of restaurants' menus and services. From identifying popular cuisines to analyzing ratings and reviews.
 **The steps involved in this project were:**
-1.Dropping some irrelevant columns.
-2.Renaming some columns for easiness of analysis.
-3.Some more data cleaning
-4.Finally, exploratory data analysis.
+1. Dropping some irrelevant columns.
+2. Renaming some columns for easiness of analysis.
+3. Some more data cleaning
+4. Finally, exploratory data analysis.
 
 ## [Project 4: US Stores' Sale Prediction](https://www.kaggle.com/code/mohd647/us-store-sale-prediction)
 ### About The Project
 In this project, the aim is to predict the sales of stores located in the USA with the help of machine learning techniques using different features given in the dataset.
 The dataset used was taken from Kaggle.  I have to predict sales of US stores.
 **The steps involved were as:**
-1.Data cleaning
-2.Exploratory Data Cleaning
-3.Encoding of categorical features
-4.Building Machine learning model using the machine-learning technique (Random Forest Regressor)
+1. Data cleaning
+2. Exploratory Data Cleaning
+3. Encoding of categorical features
+4. Building Machine learning model using the machine-learning technique (Random Forest Regressor)
 
 ## Project 5: An analysis on data of Social Buzz’s Users](https://github.com/Shajar87/Project_Portfolio/blob/main/Social%20Buzz%20data%20analysis.pptx)
 ### About The Project
@@ -60,14 +60,14 @@ Accenture  cliet, Social Buzz is a tech company currently facing big data proble
 Accenture has to provide a solution to its client Social Buzz.
 I need to deliver the following tasks:
 
-1.Finding the top 5 content categories
-2.An Audit of its big data practice
-3.Recommendation for a successful IPO
+1. Finding the top 5 content categories
+2. An Audit of its big data practice
+3. Recommendation for a successful IPO
 
 **The steps involved in this project were:**
-1.Firstly, I gathered the requirements of the project.
-2.Cleaned the data using Excel.
-3.Did data modeling
-4.Data analysis
-5.Presenting the findings
+1. Firstly, I gathered the requirements of the project.
+2. Cleaned the data using Excel.
+3. Did data modeling
+4. Data analysis
+5. Presenting the findings
 
