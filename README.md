@@ -4,7 +4,7 @@
 ### About The Project
 **In this project "120 years of Olympic history",I used SQL queries to answer some fascinating questions about the games.**
 
-**Used some of the common and advanced SQL concepts such as window functions, CTEs, subqueries, and more to answer the queations as below:
+Used some of the common and advanced SQL concepts such as window functions, CTEs, subqueries, and more to answer the queations as below:
 
 1. How many Olympic games have been held?
 2. List down all Olympics games held so far.
