@@ -57,7 +57,7 @@ The dataset used was taken from Kaggle.  I have to predict sales of US stores.
 ### About The Project
 Accenture  cliet, Social Buzz is a tech company currently facing big data problem management and it wants to expand using its users’ data.
 Accenture has to provide a solution to its client Social Buzz.
-**Dataset link:**(
+**Dataset Link:**(https://github.com/Shajar87/Project_Portfolio/blob/main/Social%20Buzz%20data.xlsx)
 
 I need to deliver the following tasks:
 1. Finding the top 5 content categories
@@ -81,7 +81,7 @@ I used the following tables for this case study:
 4. orders 
 5. users 
 6. order_details
-**Datasets link:**(https://1drv.ms/f/s!AsMxqQCn5C9wkUQ14R5SAF9ULzXS?e=Q7KHrG)
+**Dataset link:(https://1drv.ms/f/s!AsMxqQCn5C9wkUQ14R5SAF9ULzXS?e=Q7KHrG)
 
 Used MySQL for queries and found the answers of the following questions:
 1. Find customers who have never ordered
