@@ -1,10 +1,12 @@
-![alt text](![Blue Professional Modern Minimalist Simple Clean LinkedIn Career Page Background](https://user-images.githubusercontent.com/109920774/235307490-cc3f5a1c-1446-4ba8-9694-bdcae5b58e91.png)
+![](![Blue Professional Modern Minimalist Simple Clean LinkedIn Career Page Background](https://user-images.githubusercontent.com/109920774/235307490-cc3f5a1c-1446-4ba8-9694-bdcae5b58e91.png)
 )
 # Welcome to My Project Portfolio
-**I am an undergraduate student pursuing B.Tech. in Electronics Engineering at Aligarh Muslim University. 
-Through my diverse projects, I have acquired skills and experience in data analysis and business analysis.
-I have completed projects involving Python, SQL, Excel etc.
-Apart from my academic pursuits, I am deeply passionate about entrepreneurship and aspire to create something that can have a significant positive impact on people's lives and make the world a better place.**
+
+**I am an undergraduate student pursuing B.Tech. in Electronics Engineering at Aligarh Muslim University.**
+**Through my diverse projects, I have acquired skills and experience in data analysis and business analysis.**
+**I have completed projects involving Python, SQL, Excel etc.**
+**Apart from my academic pursuits, I am deeply passionate about entrepreneurship and aspire to create something**
+**that can have a significant positive impact on people's lives and make the world a better place.**
 
 ## [Project 1: 120 Years of Olympic History Analysis Using SQL](https://github.com/Shajar87/Project_Portfolio/blob/main/Olympic%20History%20Analysis.pdf)
 ### About The Project 
