@@ -80,6 +80,7 @@ I used the following tables for this case study:
 4. orders 
 5. users 
 6. order_details
+**Datasets link:(https://1drv.ms/f/s!AsMxqQCn5C9wkUQ14R5SAF9ULzXS?e=Q7KHrG)
 
 Used MySQL for queries and found the answers of the following questions:
 1. Find customers who have never ordered
