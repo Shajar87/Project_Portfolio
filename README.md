@@ -107,7 +107,7 @@ Used MySQL for queries and found the answers of the following questions:
 ### About The Project
 **Tools used: Excel**
 
-Accenture  cliet, Social Buzz is a tech company currently facing big data problem management and it wants to expand using its users’ data.
+This project is a part of virtual work experience program by Forage on lts platform. In this project I need to deliver solution to problems of Accenture cliet, Social Buzz. Social Buzz is a tech company which faces big data problem management and it wants to expand using its users’ data.
 Accenture has to provide a solution to its client Social Buzz.
 
 **Dataset Link:**
