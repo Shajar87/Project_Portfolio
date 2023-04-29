@@ -1,7 +1,7 @@
 # Project_Portfolio 
-##Welcome to My Project Portfolio
+## Welcome to My Project Portfolio
 ## [Project 1: 120 Years of Olympic History Analysis Using SQL](https://github.com/Shajar87/Project_Portfolio/blob/main/Olympic%20History%20Analysis.pdf)
-###About The Project
+### About The Project
 **In this project "120 years of Olympic history",I used SQL queries to answer some fascinating questions about the games.**
 
 **Used some of the common and advanced SQL concepts such as window functions, CTEs, subqueries, and more to answer the queations as below:
@@ -21,6 +21,7 @@
 13. Break down all Olympic games where India won a medal in Hockey and how many medals in each Olympic game.
 ## [Project 2: Data Professional Survey Breakdown](https://github.com/Shajar87/Project_Portfolio/blob/main/BI%20Project%201.pbix)
 **This is a Power BI dashboard for the data professionals' survey data taken from the internet.**
+
 In this project, I used the data from a survey of data professionals available on the internet.
 
 Firstly, the data was loaded and transformed in Power BI.
