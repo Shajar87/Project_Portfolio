@@ -29,9 +29,9 @@ In this project, I used the data from a survey of data professionals available o
 Firstly, the data was loaded and transformed in Power BI.
 Then I used some of the DAX functions to create this dashboard.
 **Some of the key findings are:**
-The most commonly used programming languages among data professionals are Python, SQL, and R.
-Data professionals on average earn a high salary, with an average salary of around $60k per year.
-The Average Salary of Data scientists is greater than the other data profiles, etc.
+1. The most commonly used programming languages among data professionals are Python, SQL, and R.
+2. Data professionals on average earn a high salary, with an average salary of around $60k per year.
+3. The Average Salary of Data scientists is greater than the other data profiles, etc.
 
 ## [Project 3: Zomato Bangalore Restaurants Project](https://www.kaggle.com/code/mohd647/zomato-bangalore-data-eda)
 ### About The Project
