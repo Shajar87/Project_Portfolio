@@ -71,3 +71,4 @@ I need to deliver the following tasks:
 4. Data analysis
 5. Presenting the findings
 
+## [Project 6: Swiggy Case Study using SQL](
