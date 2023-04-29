@@ -108,6 +108,3 @@ I need to deliver the following tasks:
 
 
 
-
-
-
