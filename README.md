@@ -33,7 +33,7 @@ The most commonly used programming languages among data professionals are Python
 Data professionals on average earn a high salary, with an average salary of around $60k per year.
 The Average Salary of Data scientists is greater than the other data profiles, etc.
 
-## [Project 3:Zomato Bangalore Restaurants Project](https://www.kaggle.com/code/mohd647/zomato-bangalore-data-eda)
+## [Project 3: Zomato Bangalore Restaurants Project](https://www.kaggle.com/code/mohd647/zomato-bangalore-data-eda)
 ### About The Project
 **In this project, I did exploratory data analysis of Zomato data of Bangalore-based restaurants.**
 The dataset used in this project was taken from Kaggle.
@@ -44,7 +44,7 @@ The task was to perform exploratory data analysis to uncover insights of restaur
 3.Some more data cleaning
 4.Finally, exploratory data analysis.
 
-## [Project 4:US Stores' Sale Prediction](https://www.kaggle.com/code/mohd647/us-store-sale-prediction)
+## [Project 4: US Stores' Sale Prediction](https://www.kaggle.com/code/mohd647/us-store-sale-prediction)
 ### About The Project
 In this project, the aim is to predict the sales of stores located in the USA with the help of machine learning techniques using different features given in the dataset.
 The dataset used was taken from Kaggle.  I have to predict sales of US stores.
@@ -54,3 +54,4 @@ The dataset used was taken from Kaggle.  I have to predict sales of US stores.
 3.Encoding of categorical features
 4.Building Machine learning model using the machine-learning technique (Random Forest Regressor)
 
+## Project 5: An analysis on data of Social Buzz’s Users](
