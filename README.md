@@ -54,4 +54,20 @@ The dataset used was taken from Kaggle.  I have to predict sales of US stores.
 3.Encoding of categorical features
 4.Building Machine learning model using the machine-learning technique (Random Forest Regressor)
 
-## Project 5: An analysis on data of Social Buzz’s Users](
+## Project 5: An analysis on data of Social Buzz’s Users](https://github.com/Shajar87/Project_Portfolio/blob/main/Social%20Buzz%20data%20analysis.pptx)
+### About The Project
+Accenture  cliet, Social Buzz is a tech company currently facing big data problem management and it wants to expand using its users’ data.
+Accenture has to provide a solution to its client Social Buzz.
+I need to deliver the following tasks:
+
+1.Finding the top 5 content categories
+2.An Audit of its big data practice
+3.Recommendation for a successful IPO
+
+**The steps involved in this project were:**
+1.Firstly, I gathered the requirements of the project.
+2.Cleaned the data using Excel.
+3.Did data modeling
+4.Data analysis
+5.Presenting the findings
+
