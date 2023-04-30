@@ -129,6 +129,3 @@ I need to deliver the following tasks:
 
 ### Thank You For Visiting my Portfolio
 
-
-
-
