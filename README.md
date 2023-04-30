@@ -2,8 +2,8 @@
 )
 # Welcome to My Project Portfolio
 
-**Hi!
-**This is Mohd Shajar.
+**Hi!**
+**This is Mohd Shajar.**
 **I am an undergraduate student pursuing B.Tech. in Electronics Engineering at Aligarh Muslim University.**
 **Through my diverse projects, I have acquired skills and experience in data analysis and business analysis.**
 **I have completed projects involving Python, SQL, Excel etc.**
