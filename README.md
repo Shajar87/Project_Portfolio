@@ -77,7 +77,7 @@ The dataset used was taken from Kaggle.  I have to predict sales of US stores.
 3. Encoding of categorical features
 4. Building Machine learning model using the machine-learning technique (Random Forest Regressor)
 
-## [Project 5: Swiggy Case Study using SQL](https://github.com/Shajar87/Project_Portfolio/blob/main/swiggy%20case%20study%20project.xlsx)
+## [Project 5: Swiggy Case Study using SQL](https://github.com/Shajar87/Project_Portfolio/blob/main/Swiggy%20Case%20Study%20Using%20SQL.pdf)
 ### About The Project
 **Tools used: MySQL**
 
