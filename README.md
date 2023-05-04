@@ -13,9 +13,9 @@
 
 ## [Project 1: 120 Years of Olympic History Analysis Using SQL](https://github.com/Shajar87/Project_Portfolio/blob/main/Olympic%20History%20Analysis.pdf)
 ### About The Project 
-**Tools used: MySQL**
+**Tool used: MySQL**
 
-In this project "120 years of Olympic history",I used SQL queries to answer some fascinating questions about the games.
+In this project "120 years of Olympic history",I used SQL queries to answer some fascinating questions about the Olympic games.
 
 Used some of the common and advanced SQL concepts such as window functions, CTEs, subqueries, and more to answer the queations as below:
 
@@ -35,7 +35,7 @@ Used some of the common and advanced SQL concepts such as window functions, CTEs
 
 ## [Project 2: Data Professional Survey Breakdown](https://github.com/Shajar87/Project_Portfolio/blob/main/BI%20Project%201.pbix)
 ### About The Project
-**Tools used: Power BI**
+**Tool used: Power BI**
 
 In this project, I used the data from a survey of data professionals available on the internet.
 
@@ -52,7 +52,7 @@ Then I used some of the DAX functions to create this dashboard.
 
 ## [Project 3: Zomato Bangalore Restaurants Project](https://www.kaggle.com/code/mohd647/zomato-bangalore-data-eda)
 ### About The Project
-**Tools used: Python**
+**Tool used: Python**
 
 In this project, I did exploratory data analysis of Zomato data of Bangalore-based restaurants.
 The dataset used in this project was taken from Kaggle.
@@ -66,7 +66,7 @@ The task was to perform exploratory data analysis to uncover insights of restaur
 
 ## [Project 4: US Stores' Sale Prediction](https://www.kaggle.com/code/mohd647/us-store-sale-prediction)
 ### About The Project
-**Tools used: Python**
+**Tool used: Python**
 
 In this project, the aim is to predict the sales of stores located in the USA with the help of machine learning techniques using different features given in the dataset.
 The dataset used was taken from Kaggle.  I have to predict sales of US stores.
@@ -79,7 +79,7 @@ The dataset used was taken from Kaggle.  I have to predict sales of US stores.
 
 ## [Project 5: Swiggy Case Study using SQL](https://github.com/Shajar87/Project_Portfolio/blob/main/Swiggy%20Case%20Study%20Using%20SQL.pdf)
 ### About The Project
-**Tools used: MySQL**
+**Tool used: MySQL**
 
 The project was a short case study on Swiggy data.
 I used the following tables for this case study:
@@ -108,7 +108,7 @@ Used MySQL for queries and found the answers of the following questions:
 
 ## [Project 6: An analysis on data of Social Buzz’s Users](https://github.com/Shajar87/Project_Portfolio/blob/main/Social%20Buzz%20data%20analysis.pptx)
 ### About The Project
-**Tools used: Excel**
+**Tool used: Excel**
 
 This project is a part of virtual work experience program by Forage on lts platform. In this project I need to deliver solution to problems of Accenture cliet, Social Buzz. Social Buzz is a tech company which faces big data problem management and it wants to expand using its users’ data.
 Accenture has to provide a solution to its client Social Buzz.
