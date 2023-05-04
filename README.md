@@ -33,14 +33,13 @@ Used some of the common and advanced SQL concepts such as window functions, CTEs
 12. Which countries have never won gold medals but have won silver/bronze medals?
 13. Break down all Olympic games where India won a medal in Hockey and how many medals in each Olympic game.
 
+**Dataset Link:(https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results)
+
 ## [Project 2: Data Professional Survey Breakdown](https://github.com/Shajar87/Project_Portfolio/blob/main/BI%20Project%201.pbix)
 ### About The Project
 **Tool used: Power BI**
 
 In this project, I used the data from a survey of data professionals available on the internet.
-
-**Dataset Link** 
-https://github.com/Shajar87/Project_Portfolio/blob/main/Data%20Professionals%20Survey%20Data.xlsx
 
 Firstly, the data was loaded and transformed in Power BI.
 Then I used some of the DAX functions to create this dashboard.
@@ -49,6 +48,8 @@ Then I used some of the DAX functions to create this dashboard.
 1. The most commonly used programming languages among data professionals are Python, SQL, and R.
 2. Data professionals on average earn a high salary, with an average salary of around $60k per year.
 3. The Average Salary of Data scientists is greater than the other data profiles, etc.
+
+**Dataset Link** (https://github.com/Shajar87/Project_Portfolio/blob/main/Data%20Professionals%20Survey%20Data.xlsx)
 
 ## [Project 3: Zomato Bangalore Restaurants Project](https://www.kaggle.com/code/mohd647/zomato-bangalore-data-eda)
 ### About The Project
@@ -90,8 +91,7 @@ I used the following tables for this case study:
 5. users 
 6. order_details
 
-**Dataset link:** 
-https://1drv.ms/f/s!AsMxqQCn5C9wkUQ14R5SAF9ULzXS?e=Q7KHrG
+**Dataset link:** (https://1drv.ms/f/s!AsMxqQCn5C9wkUQ14R5SAF9ULzXS?e=Q7KHrG)
 
 Used MySQL for queries and found the answers of the following questions:
 1. Find customers who have never ordered
@@ -113,9 +113,6 @@ Used MySQL for queries and found the answers of the following questions:
 This project is a part of virtual work experience program by Forage on lts platform. In this project I need to deliver solution to problems of Accenture cliet, Social Buzz. Social Buzz is a tech company which faces big data problem management and it wants to expand using its users’ data.
 Accenture has to provide a solution to its client Social Buzz.
 
-**Dataset Link:**
-https://github.com/Shajar87/Project_Portfolio/blob/main/Social%20Buzz%20data.xlsx
-
 I need to deliver the following tasks:
 1. Finding the top 5 content categories
 2. An Audit of its big data practice
@@ -127,6 +124,8 @@ I need to deliver the following tasks:
 3. Did data modeling
 4. Data analysis
 5. Presenting the findings
+
+**Dataset Link:**(https://github.com/Shajar87/Project_Portfolio/blob/main/Social%20Buzz%20data.xlsx)
 
 **Its not the end of learning. More in the list.**
 
