@@ -2,14 +2,19 @@
 )
 # Welcome to My Project Portfolio
 
-**Hi!**
+**Hello!**
 
-**This is Mohd Shajar.**
-**I am an undergraduate student pursuing B.Tech. in Electronics Engineering at Aligarh Muslim University.**
-**Through my diverse projects, I have acquired skills and experience in data analysis and business analysis.**
-**I have completed projects involving Python, SQL, Excel and Power BI.**
-**Apart from my academic pursuits, I am deeply passionate about entrepreneurship and aspire to create something**
-**that can have a significant positive impact on people's lives and make the world a better place.**
+**I’m Mohd Shajar, an Electronics Engineering student at Aligarh Muslim University.**
+**🔸I love working on data and business analysis projects using Python, SQL, Excel and Power BI.**
+**I have developed various skills and experience through my diverse project portfolio.**
+
+**🔸Besides my academic interests, I’m also an avid entrepreneur who dreams of creating something that can make a positive difference in the world and improve people’s lives.**
+
+**Interned as a Data Analyst at Gurucool, India's largest free learning platform for students.**
+**Worked on it's Padhaai App to analyse the users behaviour and patterns.**
+
+**🟢Now I'm looking for new opportunities in data analytics and business analysis.**
+
 
 ## [Project 1: 120 Years of Olympic History Analysis Using SQL](https://github.com/Shajar87/Project_Portfolio/blob/main/Olympic%20History%20Analysis.pdf)
 ### About The Project 
