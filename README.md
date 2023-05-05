@@ -7,7 +7,6 @@
 **I’m Mohd Shajar, an Electronics Engineering student at Aligarh Muslim University.**
 
 **🔸I love working on data and business analysis projects using Python, SQL, Excel and Power BI.**
-
 **I have developed various skills and experience through my diverse project portfolio.**
 
 **🔸Besides my academic interests, I’m also an avid entrepreneur who dreams of creating something that can make a positive difference in the world and improve people’s lives.**
