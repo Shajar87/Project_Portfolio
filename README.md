@@ -11,8 +11,8 @@
 **I have developed various skills and experience through my diverse project portfolio.**
 
 **🔸Besides my academic interests, I’m also an avid entrepreneur who dreams of creating something that can make a positive difference in the world and improve people’s lives.**
-**Interned as a Data Analyst at Gurucool, India's largest free learning platform for students.**
 
+**Interned as a Data Analyst at Gurucool, India's largest free learning platform for students.**
 **Worked on it's Padhaai App to analyse the users behaviour and patterns.**
 
 **🟢Now I'm looking for new opportunities in data analytics and business analysis.**
