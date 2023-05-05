@@ -12,12 +12,12 @@
 
 **🔸Besides my academic interests, I’m also an avid entrepreneur who dreams of creating something that can make a positive difference in the world and improve people’s lives.**
 
-**Interned as a Data Analyst at Gurucool, India's largest free learning platform for students.**
+**🔸Interned as a Data Analyst at Gurucool, India's largest free learning platform for students.**
 **Worked on it's Padhaai App to analyse the users behaviour and patterns.**
 
 **🟢Now I'm looking for new opportunities in data analytics and business analysis.**
 
-**Here are my some of the projects**
+**👉Here are my some of the projects**
 
 ## [Project 1: 120 Years of Olympic History Analysis Using SQL](https://github.com/Shajar87/Project_Portfolio/blob/main/Olympic%20History%20Analysis.pdf)
 ### About The Project 
@@ -41,7 +41,7 @@ Used some of the common and advanced SQL concepts such as window functions, CTEs
 12. Which countries have never won gold medals but have won silver/bronze medals?
 13. Break down all Olympic games where India won a medal in Hockey and how many medals in each Olympic game.
 
-**Dataset Link:** https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results
+**🔗Dataset Link:** https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results
 
 ## [Project 2: Data Professional Survey Breakdown](https://github.com/Shajar87/Project_Portfolio/blob/main/BI%20Project%201.pbix)
 ### About The Project
@@ -57,7 +57,7 @@ Then I used some of the DAX functions to create this dashboard.
 2. Data professionals on average earn a high salary, with an average salary of around $60k per year.
 3. The Average Salary of Data scientists is greater than the other data profiles, etc.
 
-**Dataset Link** https://github.com/Shajar87/Project_Portfolio/blob/main/Data%20Professionals%20Survey%20Data.xlsx
+**🔗Dataset Link:** https://github.com/Shajar87/Project_Portfolio/blob/main/Data%20Professionals%20Survey%20Data.xlsx
 
 ## [Project 3: Zomato Bangalore Restaurants Project](https://www.kaggle.com/code/mohd647/zomato-bangalore-data-eda)
 ### About The Project
@@ -99,7 +99,7 @@ I used the following tables for this case study:
 5. users 
 6. order_details
 
-**Dataset link:** https://1drv.ms/f/s!AsMxqQCn5C9wkUQ14R5SAF9ULzXS?e=Q7KHrG
+**🔗Dataset link:** https://1drv.ms/f/s!AsMxqQCn5C9wkUQ14R5SAF9ULzXS?e=Q7KHrG
 
 Used MySQL for queries and found the answers of the following questions:
 1. Find customers who have never ordered
@@ -133,7 +133,7 @@ I need to deliver the following tasks:
 4. Data analysis
 5. Presenting the findings
 
-**Dataset Link:** https://github.com/Shajar87/Project_Portfolio/blob/main/Social%20Buzz%20data.xlsx
+**🔗Dataset Link:** https://github.com/Shajar87/Project_Portfolio/blob/main/Social%20Buzz%20data.xlsx
 
 **Its not the end of learning. More in the list.**
 
