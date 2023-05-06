@@ -98,8 +98,6 @@ I used the following tables for this case study:
 5. users 
 6. order_details
 
-**🔗Dataset link:** https://1drv.ms/f/s!AsMxqQCn5C9wkUQ14R5SAF9ULzXS?e=Q7KHrG
-
 Used MySQL for queries and found the answers of the following questions:
 1. Find customers who have never ordered
 2. Average Price/dish
@@ -112,6 +110,7 @@ Used MySQL for queries and found the answers of the following questions:
 9. Find the most loyal customers for all restaurant
 10. Month-over-month revenue growth of a restaurant
 
+**🔗Dataset link:** https://1drv.ms/f/s!AsMxqQCn5C9wkUQ14R5SAF9ULzXS?e=Q7KHrG
 
 ## [Project 6: An analysis on data of Social Buzz’s Users](https://github.com/Shajar87/Project_Portfolio/blob/main/Social%20Buzz%20data%20analysis.pptx)
 ### About The Project
