@@ -98,7 +98,7 @@ I used the following tables for this case study:
 5. users 
 6. order_details
 
-Used MySQL for queries and found the answers of the following questions:
+Used MySQL for queries and found the answers to the following questions:
 1. Find customers who have never ordered
 2. Average Price/dish
 3. Find the top restaurant in terms of the number of orders for a given month
@@ -112,11 +112,11 @@ Used MySQL for queries and found the answers of the following questions:
 
 **🔗Dataset link:** https://1drv.ms/f/s!AsMxqQCn5C9wkUQ14R5SAF9ULzXS?e=Q7KHrG
 
-## [Project 6: An analysis on data of Social Buzz’s Users](https://github.com/Shajar87/Project_Portfolio/blob/main/Social%20Buzz%20data%20analysis.pptx)
+## [Project 6: An analysis of data of Social Buzz’s Users](https://github.com/Shajar87/Project_Portfolio/blob/main/Social%20Buzz%20data%20analysis.pptx)
 ### About The Project
 **Tool used: Excel**
 
-This project is a part of virtual work experience program by Forage on lts platform. In this project I need to deliver solution to problems of Accenture cliet, Social Buzz. Social Buzz is a tech company which faces big data problem management and it wants to expand using its users’ data.
+This project is part of a virtual work experience program by Forage on its platform. In this project, I need to deliver a solution to the problems of Accenture's client, Social Buzz. Social Buzz is a tech company that faces big data problem management and it wants to expand using its users’ data.
 Accenture has to provide a solution to its client Social Buzz.
 
 I need to deliver the following tasks:
@@ -132,6 +132,23 @@ I need to deliver the following tasks:
 5. Presenting the findings
 
 **🔗Dataset Link:** https://github.com/Shajar87/Project_Portfolio/blob/main/Social%20Buzz%20data.xlsx
+
+
+## [Project 7: Webscraping Using Python](Link of the Code: https://github.com/Shajar87/Project_Portfolio/blob/main/Credit%20Card%20Details.ipynb)
+### About The Project
+**Tool used: Python & Excel**
+
+In this project, I utilized the powerful BeautifulSoup library to extract credit card details from ICICI Bank's website. I was able to gather valuable information on various credit cards offered by ICICI Bank, including their features, benefits, and terms.
+
+**The steps involved in this project were:**
+1. Firstly, I imported required libraries.
+2. Wrote the code.
+3. Save the details in Excel workbook using openpyxl library.
+4. organize and analyze the extracted data using excel.
+
+**Excel workbook Link:** https://github.com/Shajar87/Project_Portfolio/blob/main/Credit%20Card%20details.xlsx
+
+
 
 **Its not the end of learning. More in the list.**
 
