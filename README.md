@@ -134,7 +134,7 @@ I need to deliver the following tasks:
 **🔗Dataset Link:** https://github.com/Shajar87/Project_Portfolio/blob/main/Social%20Buzz%20data.xlsx
 
 
-## [Project 7: Webscraping Using Python](Link of the Code: https://github.com/Shajar87/Project_Portfolio/blob/main/Credit%20Card%20Details.ipynb)
+## [Project 7: Web scraping Using Python](https://github.com/Shajar87/Project_Portfolio/blob/main/Credit%20Card%20Details.ipynb)
 ### About The Project
 **Tool used: Python & Excel**
 
