@@ -6,25 +6,25 @@
 
 **I’m Mohd Shajar, an Electronics Engineering student at Aligarh Muslim University.**
 
-**🔸I love working on data and business analysis projects using Python, SQL, Excel and Power BI.**
+**🔸I love working on data and business analysis projects using Python, SQL, Excel, and Power BI.**
 **I have developed various skills and experience through my diverse project portfolio.**
 
 **🔸Besides my academic interests, I’m also an avid entrepreneur who dreams of creating something that can make a positive difference in the world and improve people’s lives.**
 
 **🔸Interned as a Data Analyst at Gurucool, India's largest free learning platform for students.**
-**Worked on it's Padhaai App to analyse the users behaviour and patterns.**
+**Worked on its Padhaai App to analyze the user's behavior and patterns.**
 
 **🟢Now I'm looking for new opportunities in data analytics and business analysis.**
 
-**👉Here are my some of the projects**
+**👉Here are some of the projects**
 
 ## [Project 1: 120 Years of Olympic History Analysis Using SQL](https://github.com/Shajar87/Project_Portfolio/blob/main/Olympic%20History%20Analysis.pdf)
 ### About The Project 
 **Tool used: MySQL**
 
-In this project "120 years of Olympic history",I used SQL queries to answer some fascinating questions about the Olympic games.
+In this project "120 years of Olympic history", I used SQL queries to answer some fascinating questions about the Olympic games.
 
-Used some of the common and advanced SQL concepts such as window functions, CTEs, subqueries, and more to answer the queations as below:
+Used some of the common and advanced SQL concepts such as window functions, CTE, subqueries, and more to answer the questions below:
 
 1. How many Olympic games have been held?
 2. List down all Olympics games held so far.
@@ -34,7 +34,7 @@ Used some of the common and advanced SQL concepts such as window functions, CTEs
 6. Fetch details of the oldest athletes to win a gold medal.
 7. Find the Ratio of male and female athletes who participated in all Olympic games.
 8. Fetch the top 5 athletes who have won the most medals (gold/silver/bronze).
-9. Fetch the top 5 most successful countries in the olympics.
+9. Fetch the top 5 most successful countries in the Olympics.
 10. List down the total gold, silver, and bronze medals won by each country corresponding to each Olympic game.
 11. Identify which country won the most gold, silver, and bronze medals and the most medals in each Olympic game.
 12. Which countries have never won gold medals but have won silver/bronze medals?
@@ -52,7 +52,7 @@ Firstly, the data was loaded and transformed in Power BI.
 Then I used some of the DAX functions to create this dashboard.
 
 **Some of the key findings are:**
-1. The most commonly used programming languages among data professionals are Python, SQL, and R.
+1. Data professionals' most commonly used programming languages are Python, SQL, and R.
 2. Data professionals on average earn a high salary, with an average salary of around $60k per year.
 3. The Average Salary of Data scientists is greater than the other data profiles, etc.
 
@@ -147,6 +147,21 @@ In this project, I utilized the powerful BeautifulSoup library to extract credit
 4. organize and analyze the extracted data using excel.
 
 **Excel workbook Link:** https://github.com/Shajar87/Project_Portfolio/blob/main/Credit%20Card%20details.xlsx
+
+
+## [Project 8: Mexico Toys' Stores Case Study]([https://github.com/Shajar87/Project_Portfolio/blob/main/ICICI%20Credit%20Cards.ipynb](https://github.com/Shajar87/Project_Portfolio/blob/main/Mexico%20Toys'%20Stores%20Case%20Study.pdf))
+### About The Project
+**Tool used: pgAdmin**
+
+In this project "Mexico Toys' Stores Case Study",I used SQL queries to answer some fascinating questions about the toys stores' sales.
+Used some of the general and advanced SQL concepts such as joins, window functions, CTEs, subqueries, and more to answer the queations as below:
+
+
+1.	What are the top 5 selling products?
+2.	What are the sales trends for each product?
+3.	Which products have had a consistent increase in sales for the last three consecutive months?
+4.	Find the products which are contributing approximately 50% to the total revenue from all the products.4.	What is the inventory turnover rate for each product?
+
 
 
 
