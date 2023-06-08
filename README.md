@@ -141,31 +141,31 @@ I need to deliver the following tasks:
 In this project, I utilized the powerful BeautifulSoup library to extract credit card details from ICICI Bank's website. I was able to gather valuable information on various credit cards offered by ICICI Bank, including their features, benefits, and terms.
 
 **The steps involved in this project were:**
-1. Firstly, I imported required libraries.
+1. Firstly, I imported the required libraries.
 2. Wrote the code.
-3. Save the details in Excel workbook using openpyxl library.
-4. organize and analyze the extracted data using excel.
+3. Save the details in the Excel workbook using the openpyxl library.
+4. organize and analyze the extracted data using Excel.
 
 **Excel workbook Link:** https://github.com/Shajar87/Project_Portfolio/blob/main/Credit%20Card%20details.xlsx
 
 
-## [Project 8: Mexico Toys' Stores Case Study]([https://github.com/Shajar87/Project_Portfolio/blob/main/ICICI%20Credit%20Cards.ipynb](https://github.com/Shajar87/Project_Portfolio/blob/main/Mexico%20Toys'%20Stores%20Case%20Study.pdf))
+## [Project 8: Mexico Toys' Stores Case Study](https://github.com/Shajar87/Project_Portfolio/blob/main/Mexico%20Toys'%20Stores%20Case%20Study.pdf)
 ### About The Project
 **Tool used: pgAdmin**
 
-In this project "Mexico Toys' Stores Case Study",I used SQL queries to answer some fascinating questions about the toys stores' sales.
-Used some of the general and advanced SQL concepts such as joins, window functions, CTEs, subqueries, and more to answer the queations as below:
+In this project "Mexico Toys' Stores Case Study", I used SQL queries to answer some fascinating questions about the toy stores' sales.
+Used some of the general and advanced SQL concepts such as joins, window functions, CTE, subqueries, and more to answer the questions below:
 
 
 1.	What are the top 5 selling products?
 2.	What are the sales trends for each product?
-3.	Which products have had a consistent increase in sales for the last three consecutive months?
+3.	Which products have consistently increased sales for the last three consecutive months?
 4.	Find the products which are contributing approximately 50% to the total revenue from all the products.4.	What is the inventory turnover rate for each product?
 
 
 
 
-**Its not the end of learning. More in the list.**
+**It's not the end of learning. More on the list.**
 
 ### Thank You For Visiting my Portfolio!
 
