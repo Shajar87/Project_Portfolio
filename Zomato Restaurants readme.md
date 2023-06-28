@@ -12,11 +12,11 @@ The task was to perform exploratory data analysis to uncover insights of restaur
 2. Renamed some columns for of making the analysis easier.
 3. Filled NAN values with mean of the column.
 - Exploratory data analysis e.g.
-1. Locations which are best under Rs. 1000 budget for 2 persons.
+1. Found locations which are best under Rs. 1000 budget for 2 persons.
 2. Plotted heatmap to show correlation between the .
-3. Location which has most number of restuarants. 
+3. Found location which has most number of restuarants. 
 4. Compared online/offline order with respective rates.
-5. Favourite cuisine in Banglore etc.
+5. Found Favourite cuisine in Banglore etc.
 
 
 
