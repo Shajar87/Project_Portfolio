@@ -7,8 +7,11 @@ In this project, the goal was to predict the sales of stores located in the USA 
 The dataset used here provides data on Sales Values in Dollars of American stores from 2010 to 2011. It includes information on stores' Area, State, Region, and Size, as well as details about Products' ID, Description, Type, Category, and Sale Date. Additionally, the dataset contains Accounting Information like Budget Margin, Profit, Total Expenses, and Marking.
 
 **The steps involved were as:**
-1. Cleaned data e.g.
+1. Cleaned the data e.g.
 - Changed the date datatype and format.
 - Dropped some irrelevant columns.
-- Encoding of categorical features.
-2. Building Machine learning model using the machine-learning technique (Random Forest Regressor.
+2. Visualized various features through different plots, e.g. regression plot, histogram, line plot etc.
+3. Build machine learning model using the machine-learning technique (Random Forest Regressor).
+- Calculated and plotted mutual information score For Discrete & Continuous Feature.
+- Did preprocessing through and label encoding using StandardScaler and LabelEncoder respectively.
+- Finally, created predictive model using Random Forest Regressor. 
