@@ -3,7 +3,8 @@
 **Tool used: MySQL**
 
 The project was a short case study on Swiggy data.
-I used the following tables for this case study:
+
+Following tables were used:
 1. Food
 2. menu
 3. restaurants 
@@ -11,7 +12,7 @@ I used the following tables for this case study:
 5. users 
 6. order_details
 
-Used MySQL for queries and found the answers to the following questions:
+Used MySQL DBMS for queries and answers to the following questions:
 1. Find customers who have never ordered
 2. Average Price/dish
 3. Find the top restaurant in terms of the number of orders for a given month
