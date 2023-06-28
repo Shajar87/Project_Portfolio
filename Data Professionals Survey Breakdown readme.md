@@ -20,5 +20,6 @@ Steps involved in the analysis:
 - Satisfaction with work-life balance is 5.86/10.
 - Satisfaction with salary is 4.27/10.
 
+**For more details, please visit the project link above.**
 
 **🔗Dataset Link:** https://github.com/Shajar87/Project_Portfolio/blob/main/Data%20Professionals%20Survey%20Data.xlsx
