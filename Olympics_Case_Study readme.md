@@ -23,4 +23,6 @@ Used some of the common to advanced SQL concepts such as joins, window functions
 12. Which countries have never won gold medals but have won silver/bronze medals?
 13. Break down all Olympic games where India won a medal in Hockey and how many medals in each Olympic game.
 
+**For more details, please visit the project link above.**
+
 **🔗Dataset Link:** https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results
