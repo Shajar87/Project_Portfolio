@@ -13,3 +13,4 @@ Used some of the common and advanced SQL concepts such as joins, window function
 5.	What is the inventory turnover rate for each product?
 
    
+**Dataset Link:**https://mavenanalytics.io/data-playground?search=mexico
