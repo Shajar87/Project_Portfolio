@@ -10,11 +10,9 @@ The datset used contains the detials of Data Professionals like
 
 Steps involved in the analysis:
 
-Firstly, the data was loaded and transformed into Power BI.
-
-Drop some irrelevant columns which were not required in the analysis.
-
-Also used DAX to create the final dashboard.
+- Firstly, the data was loaded and transformed into Power BI.
+- Drop some irrelevant columns which were not required in the analysis.
+- Also used DAX to create the final dashboard.
 
 **Some of the key findings are:**
 1. Data professionals' most commonly used programming languages are Python, SQL, and R.
