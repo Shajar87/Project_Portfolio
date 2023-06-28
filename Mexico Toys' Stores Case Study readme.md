@@ -12,6 +12,6 @@ Used some of the common and advanced SQL concepts such as joins, window function
 4.	Find the products which are contributing approximately 50% to the total revenue from all the products.
 5.	What is the inventory turnover rate for each product?
 
-- For more details, please visit the project link above.
+**For more details, please visit the project link above.**
    
-**Dataset Link:**https://mavenanalytics.io/data-playground?search=mexico
+**🔗Dataset Link:** https://mavenanalytics.io/data-playground?search=mexico
