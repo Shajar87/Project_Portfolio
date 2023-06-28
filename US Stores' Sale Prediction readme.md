@@ -12,6 +12,6 @@ The dataset used here provides data on Sales Values in Dollars of American store
 - Dropped some irrelevant columns.
 2. Visualized various features through different plots, e.g. regression plot, histogram, line plot etc.
 3. Build machine learning model using the machine-learning technique (Random Forest Regressor).
-- Calculated and plotted mutual information score For Discrete & Continuous Feature.
+- Calculated and plotted mutual information score for discrete & continuous feature.
 - Did preprocessing through and label encoding using StandardScaler and LabelEncoder respectively.
 - Finally, created predictive model using Random Forest Regressor. 
