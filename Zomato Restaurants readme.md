@@ -11,7 +11,7 @@ The task was to perform exploratory data analysis to uncover insights of restaur
 1. Dropped some irrelevant columns from the dataset.
 2. Renamed some columns for of making the analysis easier.
 3. Filled NAN values with mean of the column.
-- Finally, exploratory data analysis to find answers to e.g.
+- Exploratory data analysis e.g.
 1. Locations which are best under Rs. 1000 budget for 2 persons.
 2. Plotted heatmap to show correlation between the .
 3. Location which has most number of restuarants. 
