@@ -12,4 +12,6 @@ I was able to gather valuable information on various credit cards offered by ICI
 3. Saved the details into the Excel workbook using the openpyxl library.
 4. Analyzed after organizing the extracted data using Excel.
 
+
+
 **Excel workbook Link:** https://github.com/Shajar87/Project_Portfolio/blob/main/Credit%20Card%20details.xlsx
