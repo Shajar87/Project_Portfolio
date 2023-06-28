@@ -2,7 +2,7 @@
 ### About The Project
 **Tool used: Excel**
 
-This project is a part of virtual work experience program by Forage. In this project, I need to deliver solutions to the problems facing by Accenture's client, Social Buzz. Social Buzz is a tech company which is faceing big data problem management and it wants to expand using its users’ data.
+This project is a part of virtual work experience program by Forage. In this project, I need to deliver solutions to the problems facing by Accenture's client, Social Buzz. Social Buzz is a tech company which is facing big data problem management and it wants to expand using its users’ data.
 
 - I need to deliver the following tasks:
 1. Finding the top 5 content categories
