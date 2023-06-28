@@ -4,6 +4,7 @@
 
 In this project "120 years of Olympic history", I used SQL queries to answer some fascinating questions about the Olympic games.
 The dataset contains olympic matches that have been played over a period of 120 years.
+
 This case study provides an opportunity to know about Olympics e.g how the Olympics have evolved over time, including questions about the participation and performance of women, different nations, and different sports and events.
 
 Used some of the common to advanced SQL concepts such as joins, window functions, CTE, subqueries, and more to answer the questions as below:
