@@ -18,5 +18,4 @@ The task was to perform exploratory data analysis to uncover insights of restaur
 4. Compared online/offline order with respective rates.
 5. Found Favourite cuisine in Banglore etc.
 
-
-
+**For more details, please visit the project link above.**
