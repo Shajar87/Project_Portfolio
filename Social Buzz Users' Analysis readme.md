@@ -4,7 +4,7 @@
 
 This project is a part of virtual work experience program by Forage. In this project, I need to deliver solutions to the problems facing by Accenture's client, Social Buzz. Social Buzz is a tech company which is facing big data problem management and it wants to expand using its users’ data.
 
-- I need to deliver the following tasks:
+I need to deliver the following tasks:
 1. Finding the top 5 content categories
 2. An Audit of its big data practice
 3. Recommendation for a successful IPO
@@ -17,7 +17,7 @@ This project is a part of virtual work experience program by Forage. In this pro
 5. Presented the findings to the client.
 
 **Findings:**
-- tTop performing content categories in decreasing order on the website are:
+- Top performing content categories in decreasing order on the website are:
 1. Studying
 2. healthy eating
 3. technology
@@ -30,5 +30,5 @@ This project is a part of virtual work experience program by Forage. In this pro
 3. GIF
 4. audio
 
-
+**For more details, please visit the project link above.**
 **🔗Dataset Link:** https://github.com/Shajar87/Project_Portfolio/blob/main/Social%20Buzz%20data.xlsx
