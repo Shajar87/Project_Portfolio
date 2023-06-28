@@ -3,8 +3,9 @@
 **Tool used: MySQL**
 
 In this project "120 years of Olympic history", I used SQL queries to answer some fascinating questions about the Olympic games.
+The data contains 120 years of history of olympic matches that have been played, e.g. Which country won any specific match?, How many medals won by each player? etc.
 
-Used some of the common and advanced SQL concepts such as window functions, CTE, subqueries, and more to answer the questions below:
+Used some of the common to advanced SQL concepts such as joins, window functions, CTE, subqueries, and more to answer the questions as below:
 
 1. How many Olympic games have been held?
 2. List down all Olympics games held so far.
