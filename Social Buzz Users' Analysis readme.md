@@ -16,4 +16,19 @@ This project is a part of virtual work experience program by Forage. In this pro
 4. Analysed the data using pivot tables and graphs.
 5. Presented the findings to the client.
 
+**Findings:**
+- tTop performing content categories in decreasing order on the website are:
+1. Studying
+2. healthy eating
+3. technology
+4. food
+5. Cooking
+
+- Content-Type with decreasing score:
+1. photo
+2. video
+3. GIF
+4. audio
+
+
 **🔗Dataset Link:** https://github.com/Shajar87/Project_Portfolio/blob/main/Social%20Buzz%20data.xlsx
