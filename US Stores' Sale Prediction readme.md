@@ -15,3 +15,5 @@ The dataset used here provides data on Sales Values in Dollars of American store
 - Calculated and plotted mutual information score for discrete & continuous feature.
 - Did preprocessing through and label encoding using StandardScaler and LabelEncoder respectively.
 - Finally, created predictive model using Random Forest Regressor. 
+
+**For more details, please visit the project link above.**
