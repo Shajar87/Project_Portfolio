@@ -7,12 +7,13 @@ The datset used contains the detials of Data Professionals like
 3. Current Yearly Salary (in USD), What Industry do you work in?
 4. Favorite Programming Language.
 5. How Happy are you in your Current Position with the following? (Work/Life Balance? etc.
-![image](https://github.com/Shajar87/Project_Portfolio/assets/109920774/85264e77-6f42-45a0-92c9-3105bad565fa)
 
 Steps involved in the analysis:
 
 Firstly, the data was loaded and transformed into Power BI.
+
 Drop some irrelevant columns which were not required in the analysis.
+
 Also used DAX to create the final dashboard.
 
 **Some of the key findings are:**
