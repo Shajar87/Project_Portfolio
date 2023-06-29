@@ -20,6 +20,10 @@ The datset contains the details of superstore sales e.g.
 | 13  | Profit         |
 | 14  | Payment Mode   |
 
+| Order ID       | Order Date  | Ship Date   | Ship Mode       | Customer ID | Customer Name | Segment   | Country        | City         | State      | Region | Product ID    | Category    | Sub-Category | Product Name                                         | Sales | Quantity | Profit | Returns | Payment Mode |
+|----------------|-------------|-------------|-----------------|-------------|---------------|-----------|----------------|--------------|------------|--------|---------------|--------------|--------------|------------------------------------------------------|-------|----------|--------|---------|--------------|
+| CA-2019-160304 | 01-01-2019  | 07-01-2019  | Standard Class  | BM-11575    | Brendan Murry | Corporate | United States | Gaithersburg | Maryland   | East   | FUR-BO-10004709| Furniture   | Bookcases    | Bush Westfield Collection Bookcases/ Medium Cherry Finish | 73.94 | 1        | 28.27  | 0       | Online       |
+
 
 **Steps involved in the analysis:**
 
