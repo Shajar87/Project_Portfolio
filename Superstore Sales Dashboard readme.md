@@ -27,10 +27,13 @@ The datset contains the details of superstore sales e.g.
 
 1️. 𝐋𝐨𝐚𝐝𝐞𝐝 𝐚𝐧𝐝 𝐭𝐫𝐚𝐧𝐬𝐟𝐨𝐫𝐦𝐞𝐝 𝐭𝐡𝐞 𝐝𝐚𝐭𝐚 𝐢𝐧𝐭𝐨 𝐏𝐨𝐰𝐞𝐫 𝐁𝐈.
 (To shape it into a format conducive to analysis)
+
 2️. 𝐀𝐝𝐝𝐞𝐝 𝐬𝐨𝐦𝐞 𝐫𝐞𝐥𝐞𝐯𝐚𝐧𝐭 𝐜𝐨𝐥𝐮𝐦𝐧𝐬 𝐮𝐬𝐢𝐧𝐠 𝐝𝐚𝐱 𝐚𝐧𝐝 𝐝𝐞𝐥𝐞𝐭𝐞𝐝 𝐬𝐨𝐦𝐞.
-(e.g. created "Average Delivery" column using DAX.)
+(e.g. created "Average Delivery" column using DAX)
+
 3️. 𝐂𝐫𝐚𝐟𝐭𝐞𝐝 𝐄𝐧𝐠𝐚𝐠𝐢𝐧𝐠 𝐕𝐢𝐬𝐮𝐚𝐥𝐬.
-(e.g., area chart, donut chart, cards etc.) to present different sets of information in a visually compelling manner.)
+(e.g., area chart, donut chart, cards etc.) to present different sets of information in a visually compelling manner)
+
 4️. 𝐀𝐧𝐝 𝐟𝐢𝐧𝐚𝐥𝐥𝐲 𝐟𝐨𝐫𝐞𝐜𝐚𝐬𝐭 𝐭𝐡𝐞 𝐬𝐚𝐥𝐞𝐬 𝐟𝐨𝐫 𝐭𝐡𝐞 𝐧𝐞𝐱𝐭 15 𝐝𝐚𝐲𝐬.
 
 
