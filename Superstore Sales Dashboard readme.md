@@ -1,6 +1,6 @@
 ## Project: Superstore Sales Dashboard
 ### About The Project:
-**Tool used: Power BI**
+**Tool used: ==Power BI==**
 
 The dataset contains the details of the superstore's sales:
 
@@ -21,6 +21,7 @@ The dataset contains the details of the superstore's sales:
 (e.g. area chart, donut chart, cards, etc.) to present different sets of information in a visually compelling manner)
 
 4️. 𝐀𝐧𝐝 𝐟𝐢𝐧𝐚𝐥𝐥𝐲 𝐟𝐨𝐫𝐞𝐜𝐚𝐬𝐭 𝐭𝐡𝐞 𝐬𝐚𝐥𝐞𝐬 𝐟𝐨𝐫 𝐭𝐡𝐞 𝐧𝐞𝐱𝐭 15 𝐝𝐚𝐲𝐬.
+
 
 
 
