@@ -8,9 +8,10 @@ The datset contains the detials of Data Professionals like
 - Current Yearly Salary (in USD), What Industry do you work in?
 - Favorite Programming Language.
 - How Happy are you in your Current Position with the following? (Work/Life Balance? etc.
-| Order ID       | Order Date | Ship Date  | Ship Mode      | Customer Name | Segment   | Country        | City         | State      | Region | Category | Sub-Category | Product Name                                 | Sales | Quantity | Profit | Returns | Payment Mode        |
-|----------------|------------|------------|----------------|---------------|-----------|----------------|--------------|------------|--------|----------|--------------|----------------------------------------------|-------|----------|--------|---------|---------------------|
-| CA-2019-160304 | 01-01-2019 | 07-01-2019 | Standard Class | BM-11575      | Brendan Murry| Corporate      | United States| Gaithersburg| Maryland | East     | Furniture    | Bookcases    | Bush Westfield Collection Bookcases/ Medium Cherry Finish | 73.94 | 1        | 28.27  | 0       | Online  |
+| Order ID       | Order Date  | Ship Date   | Ship Mode       | Customer Name | Segment   | Country        | City         | State       | Region | Category    | Sub-Category | Product Name                                         | Sales | Quantity | Profit | Returns | Payment Mode        |
+|----------------|-------------|-------------|-----------------|---------------|-----------|----------------|--------------|-------------|--------|-------------|--------------|------------------------------------------------------|-------|----------|--------|---------|---------------------|
+| CA-2019-160304 | 01-01-2019  | 07-01-2019  | Standard Class  | BM-11575      | Brendan Murry| Corporate      | United States| Gaithersburg| Maryland| East        | Furniture    | Bookcases    | Bush Westfield Collection Bookcases/ Medium Cherry Finish | 73.94 | 1        | 28.27  | 0       | Online, instead     |
+
 
 
 Steps involved in the analysis:
