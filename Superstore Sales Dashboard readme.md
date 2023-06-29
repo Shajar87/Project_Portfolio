@@ -1,6 +1,6 @@
 ## Project: Superstore Sales Dashboard
 ### About The Project:
-**Tool used: ==Power BI==**
+**Tool used:** ==Power BI==
 
 The dataset contains the details of the superstore's sales:
 
