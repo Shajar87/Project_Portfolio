@@ -2,7 +2,7 @@
 ### About The Project:
 **Tool used: Power BI**
 
-The datset contains the details of superstore sales e.g.
+The dataset contains the details of the superstore's sales:
 
 | Order ID       | Order Date  | Ship Date   | Ship Mode       | Customer ID | Customer Name | Segment   | Country        | City         | State      | Region | Product ID    | Category    | Sub-Category | Product Name                                         | Sales | Quantity | Profit | Returns | Payment Mode |
 |----------------|-------------|-------------|-----------------|-------------|---------------|-----------|----------------|--------------|------------|--------|---------------|--------------|--------------|------------------------------------------------------|-------|----------|--------|---------|--------------|
@@ -18,7 +18,7 @@ The datset contains the details of superstore sales e.g.
 (e.g. created "Average Delivery" column using DAX)
 
 3️. 𝐂𝐫𝐚𝐟𝐭𝐞𝐝 𝐄𝐧𝐠𝐚𝐠𝐢𝐧𝐠 𝐕𝐢𝐬𝐮𝐚𝐥𝐬.
-(e.g., area chart, donut chart, cards etc.) to present different sets of information in a visually compelling manner)
+(e.g. area chart, donut chart, cards, etc.) to present different sets of information in a visually compelling manner)
 
 4️. 𝐀𝐧𝐝 𝐟𝐢𝐧𝐚𝐥𝐥𝐲 𝐟𝐨𝐫𝐞𝐜𝐚𝐬𝐭 𝐭𝐡𝐞 𝐬𝐚𝐥𝐞𝐬 𝐟𝐨𝐫 𝐭𝐡𝐞 𝐧𝐞𝐱𝐭 15 𝐝𝐚𝐲𝐬.
 
@@ -28,12 +28,12 @@ The datset contains the details of superstore sales e.g.
 
 - 𝐒𝐚𝐥𝐞𝐬 𝐏𝐞𝐫𝐟𝐨𝐫𝐦𝐚𝐧𝐜𝐞: The analysis reveals significant variations in sales performance across different regions and categories.
 
-Top 3 product Categories are-
+The top 3 product Categories are-
 1. Office supplies
 2. Technology
 3. Furniture
 
-- 𝐂𝐮𝐬𝐭𝐨𝐦𝐞𝐫 𝐒𝐞𝐠𝐦𝐞𝐧𝐭𝐚𝐭𝐢𝐨𝐧: By examining the customer segment distribution, we can identify the most lucrative customer segments.
+- 𝐂𝐮𝐬𝐭𝐨𝐦𝐞𝐫 𝐒𝐞𝐠𝐦𝐞𝐧𝐭𝐚𝐭𝐢𝐨𝐧: We can identify the most lucrative customer segments by examining the customer segment distribution.
 
 % Sales by customer segments-
 1. Home office (19%)
@@ -47,11 +47,11 @@ Standard Class
 
 - 𝐏𝐚𝐲𝐦𝐞𝐧𝐭 𝐌𝐨𝐝𝐞𝐬: By examining the distribution of payment modes, we can gain insights into customer preferences and identify potential opportunities for partnerships or promotions with payment service providers.
 
-Top payment mode is-
+The top payment mode is-
 Cash on Delivery
 
 
-These findings provide actionable insights that can drive strategic decision-making, optimize operations, and boost profitability.
+These findings provide actionable insights to drive strategic decision-making, optimize operations, and boost profitability.
 
 **Recommendations:**
 
@@ -59,9 +59,9 @@ These findings provide actionable insights that can drive strategic decision-mak
  
 2. Customer Segmentation: Develop targeted marketing campaigns and personalized offerings for the lucrative customer segments of home office, corporate, and consumer, aiming to maximize customer satisfaction, loyalty, and overall sales.
 
-3. Shipping Efficiency: Streamline logistics operations, assess shipping processes, and consider partnerships with reliable shipping providers to improve overall shipping efficiency and reduce delays, leading to enhanced customer satisfaction.
+3. Shipping Efficiency: Streamline logistics operations, assess shipping processes, and consider partnerships with reliable shipping providers to improve overall shipping efficiency and reduce delays, enhancing customer satisfaction.
 
-4. Payment Modes: Optimize the cash on delivery process while exploring partnerships with other payment service providers to offer diverse payment options, catering to customer preferences, expanding the customer base, and improving convenience during transactions.
+4. Payment Modes: Optimize the cash-on-delivery process while exploring partnerships with other payment service providers to offer diverse payment options, catering to customer preferences, expanding the customer base, and improving convenience during transactions.
 
    
 **Project link below.**
