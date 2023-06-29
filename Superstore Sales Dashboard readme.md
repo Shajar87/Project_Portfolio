@@ -24,7 +24,7 @@ The datset contains the details of superstore sales e.g.
 
 
 
-𝐇𝐞𝐫𝐞 𝐚𝐫𝐞 𝐬𝐨𝐦𝐞 𝐫𝐞𝐦𝐚𝐫𝐤𝐚𝐛𝐥𝐞 𝐟𝐢𝐧𝐝𝐢𝐧𝐠𝐬 𝐭𝐡𝐚𝐭 𝐰𝐚𝐬 𝐮𝐧𝐜𝐨𝐯𝐞𝐫𝐞𝐝-
+**𝐇𝐞𝐫𝐞 𝐚𝐫𝐞 𝐬𝐨𝐦𝐞 𝐫𝐞𝐦𝐚𝐫𝐤𝐚𝐛𝐥𝐞 𝐟𝐢𝐧𝐝𝐢𝐧𝐠𝐬 𝐭𝐡𝐚𝐭 𝐰𝐚𝐬 𝐮𝐧𝐜𝐨𝐯𝐞𝐫𝐞𝐝-**
 
 - 𝐒𝐚𝐥𝐞𝐬 𝐏𝐞𝐫𝐟𝐨𝐫𝐦𝐚𝐧𝐜𝐞: The analysis reveals significant variations in sales performance across different regions and categories.
 
@@ -55,7 +55,15 @@ These findings provide actionable insights that can drive strategic decision-mak
 
 **Recommendations:**
 
+1. Sales Performance: Focus on top-performing categories like office supplies, technology, and furniture to allocate more resources and marketing efforts, driving increased sales and growth.
+ 
+2. Customer Segmentation: Develop targeted marketing campaigns and personalized offerings for the lucrative customer segments of home office, corporate, and consumer, aiming to maximize customer satisfaction, loyalty, and overall sales.
 
+3. Shipping Efficiency: Streamline logistics operations, assess shipping processes, and consider partnerships with reliable shipping providers to improve overall shipping efficiency and reduce delays, leading to enhanced customer satisfaction.
+
+4. Payment Modes: Optimize the cash on delivery process while exploring partnerships with other payment service providers to offer diverse payment options, catering to customer preferences, expanding the customer base, and improving convenience during transactions.
+
+   
 **Project link below.**
 ### https://github.com/Shajar87/Project_Portfolio/blob/main/Superstore%20Sales%20Dashboar%EF%BB%BFd.pbix
 
