@@ -1,25 +1,34 @@
-## [Project 2: Data Professional Survey Breakdown](https://github.com/Shajar87/Project_Portfolio/blob/main/BI%20Project%201.pbix)
-### About The Project
+## Project: Data Professional Survey Breakdown
+### About The Project:
 **Tool used: Power BI**
-The datset used contains the detials of Data Professionals like
-- Their Current Roles?
--  Did they switch thier careers into Data?
-- Current Yearly Salary (in USD), What Industry do you work in?
-- Favorite Programming Language.
-- How Happy are you in your Current Position with the following? (Work/Life Balance? etc.
 
-Steps involved in the analysis:
-1. Firstly, the data was loaded and transformed into Power BI.
-2. Drop some irrelevant columns which were not required in the analysis.
-3. Also used DAX to create the final dashboard.
+The dataset contains the details of the superstore's sales:
+
+| Unique ID             | Date Taken (America/New_York) | Time Taken (America/New_York) | Time Spent | Q1 - Which Title Best Fits your Current Role? | Q2 - Did you switch careers into Data? | Q3 - Current Yearly Salary (in USD) | Q4 - What Industry do you work in? | Q5 - Favorite Programming Language | Q6 - How Happy are you in your Current Position with the following? (Salary) | Q6 - How Happy are you in your Current Position with the following? (Work/Life Balance) | Q6 - How Happy are you in your Current Position with the following? (Coworkers) | Q6 - How Happy are you in your Current Position with the following? (Management) | Q6 - How Happy are you in your Current Position with the following? (Upward Mobility) | Q6 - How Happy are you in your Current Position with the following? (Learning New Things) | Q7 - How difficult was it for you to break into Data? | Q8 - If you were to look for a new job today, what would be the most important thing to you? | Q9 - Male/Female? | Q10 - Current Age | Q11 - Which Country do you live in? | Q12 - Highest Level of Education | Q13 - Ethnicity             |
+|-----------------------|-------------------------------|------------------------------|-------------|----------------------------------------------|-----------------------------------------|---------------------------------------|------------------------------------|----------------------------------|-----------------------------------------------------------------------|-----------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|-------------------------------------------------------------|-------------------------------------------------------|------------------|----------------------------|-------------------------------|-------------------------------|-----------------------------|
+| 62a33b3db4da29969c62df3d | 6/10/2022                     | 8:38                         | 0:00:44     | Data Analyst                                 | Yes                                     | 106k-125k                             | Healthcare                          | Python                           | 9 (Very Satisfied)                                                        | 9 (Very Satisfied)                                                                      | 7 (Satisfied)                                                                | 5 (Neutral)                                                                         | 5 (Neutral)                                                                           | 7 (Satisfied)                                                                                        | Very Difficult                                               | Remote Work                                               | Male             | 26                         | United States                 | Bachelor's Degree                 | White or Caucasian         |
+
+
+**Steps involved in the analysis are:**
+
+1️. 𝐋𝐨𝐚𝐝𝐞𝐝 𝐚𝐧𝐝 𝐭𝐫𝐚𝐧𝐬𝐟𝐨𝐫𝐦𝐞𝐝 𝐭𝐡𝐞 𝐝𝐚𝐭𝐚 𝐢𝐧𝐭𝐨 𝐏𝐨𝐰𝐞𝐫 𝐁𝐈.
+(To shape it into a format conducive to analysis)
+
+2️. 𝐀𝐝𝐝𝐞𝐝 𝐬𝐨𝐦𝐞 𝐫𝐞𝐥𝐞𝐯𝐚𝐧𝐭 𝐜𝐨𝐥𝐮𝐦𝐧𝐬 𝐮𝐬𝐢𝐧𝐠 DAX 𝐚𝐧𝐝 𝐝𝐞𝐥𝐞𝐭𝐞𝐝 𝐬𝐨𝐦𝐞.
+
+3️. 𝐂𝐫𝐚𝐟𝐭𝐞𝐝 𝐄𝐧𝐠𝐚𝐠𝐢𝐧𝐠 𝐕𝐢𝐬𝐮𝐚𝐥𝐬.
+(e.g. area chart, donut chart, cards, etc.) to present different sets of information in a visually compelling manner)
+
+
 
 **Some of the key findings are:**
 - Data professionals' most commonly used programming languages are Python, SQL, and R.-
--  Data professionals on average earn a high salary, with an average salary of around $60k per year.
+- Data professionals on average earn a high salary, with an average salary of around $60k per year.
 - The Average Salary of Data scientists is greater than the other data profiles.
 - Satisfaction with work-life balance is 5.86/10.
 - Satisfaction with salary is 4.27/10.
 
-**For more details, please visit the project link above.**
+   
+**🔗Dashboard Link:** https://github.com/Shajar87/Project_Portfolio/blob/main/BI%20Project%201.pbix
 
 **🔗Dataset Link:** https://github.com/Shajar87/Project_Portfolio/blob/main/Data%20Professionals%20Survey%20Data.xlsx
