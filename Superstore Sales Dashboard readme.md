@@ -36,7 +36,7 @@ The dataset contains the details of the superstore's sales:
 
 𝐂𝐮𝐬𝐭𝐨𝐦𝐞𝐫 𝐒𝐞𝐠𝐦𝐞𝐧𝐭𝐚𝐭𝐢𝐨𝐧: We can identify the most lucrative customer segments by examining the customer segment distribution.
 
-% Sales by customer segments-
+- % Sales by customer segments-
 1. Home office (19%)
 2. Corporate (33%)
 3. Consumer (48%)
