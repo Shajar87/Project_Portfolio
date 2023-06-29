@@ -3,24 +3,22 @@
 **Tool used: Power BI**
 
 The datset contains the details of superstore sales e.g.
-
-1. Order ID
-2. Order Date
-4. Ship Mode
-5. Customer Name
-6. Segment
-7. Country
-8. City
-9. State
-10. Category
-11. Product Name
-12. Sales
-13. Quantity
-14. Profit
-15. Payment Mode
-
-1. Firstly, the data was loaded and transformed into Power BI.
-3. Used DAX and different visuals to create the final dashboard.
+| S.No   | Column Name    |
+| --- | -------------- |
+| 1   | Order ID       |
+| 2   | Order Date     |
+| 3   | Ship Mode      |
+| 4   | Customer Name  |
+| 5   | Segment        |
+| 6   | Country        |
+| 7   | City           |
+| 8   | State          |
+| 9   | Category       |
+| 10  | Product Name   |
+| 11  | Sales          |
+| 12  | Quantity       |
+| 13  | Profit         |
+| 14  | Payment Mode   |
 
 
 **Steps involved in the analysis:**
