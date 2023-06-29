@@ -27,28 +27,28 @@ The dataset contains the details of the superstore's sales:
 
 **𝐇𝐞𝐫𝐞 𝐚𝐫𝐞 𝐬𝐨𝐦𝐞 𝐫𝐞𝐦𝐚𝐫𝐤𝐚𝐛𝐥𝐞 𝐟𝐢𝐧𝐝𝐢𝐧𝐠𝐬 𝐭𝐡𝐚𝐭 𝐰ere 𝐮𝐧𝐜𝐨𝐯𝐞𝐫𝐞𝐝-**
 
-- 𝐒𝐚𝐥𝐞𝐬 𝐏𝐞𝐫𝐟𝐨𝐫𝐦𝐚𝐧𝐜𝐞: The analysis reveals significant variations in sales performance across different regions and categories.
+𝐒𝐚𝐥𝐞𝐬 𝐏𝐞𝐫𝐟𝐨𝐫𝐦𝐚𝐧𝐜𝐞: The analysis reveals significant variations in sales performance across different regions and categories.
 
-The top 3 product Categories are-
+- The top 3 product Categories are-
 1. Office supplies
 2. Technology
 3. Furniture
 
-- 𝐂𝐮𝐬𝐭𝐨𝐦𝐞𝐫 𝐒𝐞𝐠𝐦𝐞𝐧𝐭𝐚𝐭𝐢𝐨𝐧: We can identify the most lucrative customer segments by examining the customer segment distribution.
+𝐂𝐮𝐬𝐭𝐨𝐦𝐞𝐫 𝐒𝐞𝐠𝐦𝐞𝐧𝐭𝐚𝐭𝐢𝐨𝐧: We can identify the most lucrative customer segments by examining the customer segment distribution.
 
 % Sales by customer segments-
 1. Home office (19%)
 2. Corporate (33%)
 3. Consumer (48%)
 
-- 𝐒𝐡𝐢𝐩𝐩𝐢𝐧𝐠 𝐄𝐟𝐟𝐢𝐜𝐢𝐞𝐧𝐜𝐲: Analyzing the ship date and ship mode data provides insights into shipping efficiency.
+𝐒𝐡𝐢𝐩𝐩𝐢𝐧𝐠 𝐄𝐟𝐟𝐢𝐜𝐢𝐞𝐧𝐜𝐲: Analyzing the ship date and ship mode data provides insights into shipping efficiency.
 
-Top ship mode is-
+- Top ship mode is-
 Standard Class
 
-- 𝐏𝐚𝐲𝐦𝐞𝐧𝐭 𝐌𝐨𝐝𝐞𝐬: By examining the distribution of payment modes, we can gain insights into customer preferences and identify potential opportunities for partnerships or promotions with payment service providers.
+𝐏𝐚𝐲𝐦𝐞𝐧𝐭 𝐌𝐨𝐝𝐞𝐬: By examining the distribution of payment modes, we can gain insights into customer preferences and identify potential opportunities for partnerships or promotions with payment service providers.
 
-The top payment mode is-
+- The top payment mode is-
 Cash on Delivery
 
 
