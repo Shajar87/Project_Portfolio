@@ -25,7 +25,7 @@ The dataset contains the details of the superstore's sales:
 
 
 
-**𝐇𝐞𝐫𝐞 𝐚𝐫𝐞 𝐬𝐨𝐦𝐞 𝐫𝐞𝐦𝐚𝐫𝐤𝐚𝐛𝐥𝐞 𝐟𝐢𝐧𝐝𝐢𝐧𝐠𝐬 𝐭𝐡𝐚𝐭 𝐰𝐚𝐬 𝐮𝐧𝐜𝐨𝐯𝐞𝐫𝐞𝐝-**
+**𝐇𝐞𝐫𝐞 𝐚𝐫𝐞 𝐬𝐨𝐦𝐞 𝐫𝐞𝐦𝐚𝐫𝐤𝐚𝐛𝐥𝐞 𝐟𝐢𝐧𝐝𝐢𝐧𝐠𝐬 𝐭𝐡𝐚𝐭 𝐰ere 𝐮𝐧𝐜𝐨𝐯𝐞𝐫𝐞𝐝-**
 
 - 𝐒𝐚𝐥𝐞𝐬 𝐏𝐞𝐫𝐟𝐨𝐫𝐦𝐚𝐧𝐜𝐞: The analysis reveals significant variations in sales performance across different regions and categories.
 
