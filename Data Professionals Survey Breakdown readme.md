@@ -22,7 +22,7 @@
 2️. 𝐀𝐝𝐝𝐞𝐝 𝐬𝐨𝐦𝐞 𝐫𝐞𝐥𝐞𝐯𝐚𝐧𝐭 𝐜𝐨𝐥𝐮𝐦𝐧𝐬 𝐮𝐬𝐢𝐧𝐠 DAX 𝐚𝐧𝐝 𝐝𝐞𝐥𝐞𝐭𝐞𝐝 𝐬𝐨𝐦𝐞.
 
 3️. 𝐂𝐫𝐚𝐟𝐭𝐞𝐝 𝐄𝐧𝐠𝐚𝐠𝐢𝐧𝐠 𝐕𝐢𝐬𝐮𝐚𝐥𝐬.
-(e.g. area chart, donut chart, cards, etc.) to present different sets of information in a visually compelling manner)
+(e.g. Bar chart, tree map, donut chart, cards, Gauge, etc.) to present different sets of information in a visually compelling manner)
 
 
 
