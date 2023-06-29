@@ -65,7 +65,6 @@ These findings provide actionable insights to drive strategic decision-making, o
 4. Payment Modes: Optimize the cash-on-delivery process while exploring partnerships with other payment service providers to offer diverse payment options, catering to customer preferences, expanding the customer base, and improving convenience during transactions.
 
    
-**Project link below.**
-### https://github.com/Shajar87/Project_Portfolio/blob/main/Superstore%20Sales%20Dashboar%EF%BB%BFd.pbix
+**🔗Project Link:** https://github.com/Shajar87/Project_Portfolio/blob/main/Superstore%20Sales%20Dashboar%EF%BB%BFd.pbix
 
 **🔗Dataset Link:** https://github.com/Shajar87/Project_Portfolio/blob/main/SuperStore_Sales_DataSet.csv
