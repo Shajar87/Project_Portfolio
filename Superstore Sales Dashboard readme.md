@@ -1,5 +1,5 @@
-## Superstore Sales Dashboard
-### About The Project
+## Project: Superstore Sales Dashboard
+### About The Project:
 **Tool used: Power BI**
 The datset contains the detials of Data Professionals like
 - Their Current Roles?
