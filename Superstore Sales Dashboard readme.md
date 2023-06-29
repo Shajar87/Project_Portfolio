@@ -3,29 +3,13 @@
 **Tool used: Power BI**
 
 The datset contains the details of superstore sales e.g.
-| S.No   | Column Name    |
-| --- | -------------- |
-| 1   | Order ID       |
-| 2   | Order Date     |
-| 3   | Ship Mode      |
-| 4   | Customer Name  |
-| 5   | Segment        |
-| 6   | Country        |
-| 7   | City           |
-| 8   | State          |
-| 9   | Category       |
-| 10  | Product Name   |
-| 11  | Sales          |
-| 12  | Quantity       |
-| 13  | Profit         |
-| 14  | Payment Mode   |
 
 | Order ID       | Order Date  | Ship Date   | Ship Mode       | Customer ID | Customer Name | Segment   | Country        | City         | State      | Region | Product ID    | Category    | Sub-Category | Product Name                                         | Sales | Quantity | Profit | Returns | Payment Mode |
 |----------------|-------------|-------------|-----------------|-------------|---------------|-----------|----------------|--------------|------------|--------|---------------|--------------|--------------|------------------------------------------------------|-------|----------|--------|---------|--------------|
 | CA-2019-160304 | 01-01-2019  | 07-01-2019  | Standard Class  | BM-11575    | Brendan Murry | Corporate | United States | Gaithersburg | Maryland   | East   | FUR-BO-10004709| Furniture   | Bookcases    | Bush Westfield Collection Bookcases/ Medium Cherry Finish | 73.94 | 1        | 28.27  | 0       | Online       |
 
 
-**Steps involved in the analysis:**
+**Steps involved in the analysis are:**
 
 1️. 𝐋𝐨𝐚𝐝𝐞𝐝 𝐚𝐧𝐝 𝐭𝐫𝐚𝐧𝐬𝐟𝐨𝐫𝐦𝐞𝐝 𝐭𝐡𝐞 𝐝𝐚𝐭𝐚 𝐢𝐧𝐭𝐨 𝐏𝐨𝐰𝐞𝐫 𝐁𝐈.
 (To shape it into a format conducive to analysis)
