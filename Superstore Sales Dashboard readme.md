@@ -1,3 +1,4 @@
+## Superstore Sales Dashboard
 ### About The Project
 **Tool used: Power BI**
 The datset contains the detials of Data Professionals like
@@ -22,6 +23,6 @@ Steps involved in the analysis:
 **Recommendations:**
 
 **Project link below.**
-### 🔗(https://github.com/Shajar87/Project_Portfolio/blob/main/Superstore%20Sales%20Dashboar%EF%BB%BFd.pbix)
+### (https://github.com/Shajar87/Project_Portfolio/blob/main/Superstore%20Sales%20Dashboar%EF%BB%BFd.pbix)
 
 **🔗Dataset Link:** https://github.com/Shajar87/Project_Portfolio/blob/main/SuperStore_Sales_DataSet.csv
