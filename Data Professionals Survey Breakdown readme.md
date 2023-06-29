@@ -1,12 +1,17 @@
 ## Project: Data Professional Survey Breakdown
+
 ### About The Project:
+
 **Tool used: Power BI**
+
 
 **The dataset contains the details of the survey as below:** 
 
 | Unique ID             | Date Taken (America/New_York) | Time Taken (America/New_York) | Time Spent | Q1 - Which Title Best Fits your Current Role? | Q2 - Did you switch careers into Data? | Q3 - Current Yearly Salary (in USD) | Q4 - What Industry do you work in? | Q5 - Favorite Programming Language | Q6 - How Happy are you in your Current Position with the following? (Salary) | Q6 - How Happy are you in your Current Position with the following? (Work/Life Balance) | Q6 - How Happy are you in your Current Position with the following? (Coworkers) | Q6 - How Happy are you in your Current Position with the following? (Management) | Q6 - How Happy are you in your Current Position with the following? (Upward Mobility) | Q6 - How Happy are you in your Current Position with the following? (Learning New Things) | Q7 - How difficult was it for you to break into Data? | Q8 - If you were to look for a new job today, what would be the most important thing to you? | Q9 - Male/Female? | Q10 - Current Age | Q11 - Which Country do you live in? | Q12 - Highest Level of Education | Q13 - Ethnicity             |
 |-----------------------|-------------------------------|------------------------------|-------------|----------------------------------------------|-----------------------------------------|---------------------------------------|------------------------------------|----------------------------------|-----------------------------------------------------------------------|-----------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|-------------------------------------------------------------|-------------------------------------------------------|------------------|----------------------------|-------------------------------|-------------------------------|-----------------------------|
 | 62a33b3db4da29969c62df3d | 6/10/2022                     | 8:38                         | 0:00:44     | Data Analyst                                 | Yes                                     | 106k-125k                             | Healthcare                          | Python                           | 9 (Very Satisfied)                                                        | 9 (Very Satisfied)                                                                      | 7 (Satisfied)                                                                | 5 (Neutral)                                                                         | 5 (Neutral)                                                                           | 7 (Satisfied)                                                                                        | Very Difficult                                               | Remote Work                                               | Male             | 26                         | United States                 | Bachelor's Degree                 | White or Caucasian         |
+
+
 
 
 **Steps involved in the analysis are:**
