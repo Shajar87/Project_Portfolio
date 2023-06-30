@@ -3,7 +3,7 @@
 **Tool used: Python**
 
 ---
-In this project, I performed exploratory data analysis of Bangalore-based restaurant data.
+In this project, I performed exploratory data analysis (EDA) of Bangalore-based restaurants.
 The dataset was taken from Kaggle. 
 
 The task was to perform exploratory data analysis to uncover insights into restaurants' menus and services. From identifying popular cuisines to analyzing ratings and reviews.
