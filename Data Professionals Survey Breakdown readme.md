@@ -13,7 +13,7 @@
 
 
 
-
+--- --- ---
 **Steps involved in the analysis are:**
 
 1️. 𝐋𝐨𝐚𝐝𝐞𝐝 𝐚𝐧𝐝 𝐭𝐫𝐚𝐧𝐬𝐟𝐨𝐫𝐦𝐞𝐝 𝐭𝐡𝐞 𝐝𝐚𝐭𝐚 𝐢𝐧𝐭𝐨 𝐏𝐨𝐰𝐞𝐫 𝐁𝐈.
@@ -27,8 +27,8 @@
 
 
 **Some of the key findings are:**
-- Count of Survey Takers = 630
-- Average Age of Survey Takers = 29.87 years
+- Count of Survey Takers = ==630==
+- Average Age of Survey Takers = ==29.87 years==
 - Data professionals' most commonly used programming languages are Python followed by R and SQL.
 - Data professionals on average earn a high salary, with an average salary of around $60k per year.
 - The Average Salary of Data scientists is greater than the other data profiles.
