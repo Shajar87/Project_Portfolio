@@ -5,7 +5,7 @@
 ---
 This project is a SQL case study on Swiggy data.
 
-**The following tables were being used:**
+**The following tables are being used:**
 1. Food
 2. menu
 3. restaurants 
