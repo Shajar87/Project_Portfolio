@@ -5,7 +5,7 @@
 ---
 This project was a short case study on Swiggy data.
 
-The following tables were used:
+**The following tables were used:**
 1. Food
 2. menu
 3. restaurants 
@@ -14,7 +14,7 @@ The following tables were used:
 6. order_details
 
 ---
-Used MySQL DBMS for queries and answers to the following questions:
+**Used MySQL DBMS for queries and answers to the following questions:**
 1. Find customers who have never ordered
 2. Average Price/dish
 3. Find the top restaurant in terms of the number of orders for a given month
@@ -26,7 +26,7 @@ Used MySQL DBMS for queries and answers to the following questions:
 9. Find the most loyal customers for all restaurant
 10. Month-over-month revenue growth of a restaurant
 
-Answers to a few of the above questions:
+- Answers to a few of the above questions:
 
 **For more details, please visit the project link above.**
 1. Customers Who Have Never Ordered: **Anupama and Rishabh**
