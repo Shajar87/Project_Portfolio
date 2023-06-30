@@ -1,10 +1,11 @@
-## [Project 5: Swiggy Case Study using SQL](https://github.com/Shajar87/Project_Portfolio/blob/main/Swiggy%20Case%20Study%20Using%20SQL.pdf)
+## Project: Swiggy Case Study using SQL
 ### About The Project
 **Tool used: MySQL**
 
-The project was a short case study on Swiggy data.
+---
+This project was a short case study on Swiggy data.
 
-Following tables were used:
+The following tables were used:
 1. Food
 2. menu
 3. restaurants 
@@ -12,6 +13,7 @@ Following tables were used:
 5. users 
 6. order_details
 
+---
 Used MySQL DBMS for queries and answers to the following questions:
 1. Find customers who have never ordered
 2. Average Price/dish
@@ -24,6 +26,15 @@ Used MySQL DBMS for queries and answers to the following questions:
 9. Find the most loyal customers for all restaurant
 10. Month-over-month revenue growth of a restaurant
 
+Answers to a few of the above questions:
+
 **For more details, please visit the project link above.**
+1. Customers Who Have Never Ordered: **Anupama and Rishabh**
+2. Restaurants  with  Monthly Sales Greater Than 500: **Dominos and KFC**
+3. Restaurants with max repeated customers: **KFC**
+
+
+
+**🔗Queries PDF link:** https://github.com/Shajar87/Project_Portfolio/blob/main/Swiggy%20Case%20Study%20Using%20SQL.pdf
 
 **🔗Dataset link:** https://1drv.ms/f/s!AsMxqQCn5C9wkUQ14R5SAF9ULzXS?e=Q7KHrG
