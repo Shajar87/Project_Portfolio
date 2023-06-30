@@ -1,13 +1,18 @@
-## [Project 1: 120 Years of Olympic History Analysis Using SQL](https://github.com/Shajar87/Project_Portfolio/blob/main/Olympic%20History%20Analysis.pdf)
-### About The Project 
+## Project: 120 Years of Olympic History Analysis Using SQL
+### About The Project
 **Tool used: MySQL**
 
 In this project "120 years of Olympic history", I used SQL queries to answer some fascinating questions about the Olympic games.
-The dataset contains olympic matches that have been played over a period of 120 years.
+The dataset contains Olympic matches that have been played for over 120 years.
 
-This case study provides an opportunity to know about Olympics e.g how the Olympics have evolved over time, including questions about the participation and performance of women, different nations, and different sports and events.
+| ID | Name        | Sex | Age | Height | Weight | Team  | NOC | Games       | Year | Season | City      | Sport      | Event                       | Medal |
+|----|-------------|-----|-----|--------|--------|-------|-----|-------------|------|--------|-----------|------------|-----------------------------|-------|
+| 1  | A Dijiang   | M   | 24  | 180    | 80     | China | CHN | 1992 Summer | 1992 | Summer | Barcelona | Basketball | Basketball Men's Basketball | NA    |
 
-Used some of the common to advanced SQL concepts such as joins, window functions, CTE, subqueries, and more to answer the questions as below:
+---
+This case study provides an opportunity to know about the Olympics e.g. how the Olympics have evolved, including questions about the participation and performance of women, different nations, and different sports and events.
+
+Used some of the common to advanced SQL concepts such as joins, window functions, CTE, subqueries, and more to answer the questions below:
 
 1. How many Olympic games have been held?
 2. List down all Olympics games held so far.
@@ -22,7 +27,6 @@ Used some of the common to advanced SQL concepts such as joins, window functions
 11. Identify which country won the most gold, silver, and bronze medals and the most medals in each Olympic game.
 12. Which countries have never won gold medals but have won silver/bronze medals?
 13. Break down all Olympic games where India won a medal in Hockey and how many medals in each Olympic game.
-
-**For more details, please visit the project link above.**
-
+---
+**🔗Queries PDF Link:** https://github.com/Shajar87/Project_Portfolio/blob/main/Olympic%20History%20Analysis.pdf
 **🔗Dataset Link:** https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results
