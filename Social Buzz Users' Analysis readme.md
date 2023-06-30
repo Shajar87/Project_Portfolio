@@ -36,8 +36,9 @@ This project is a part of the virtual work experience program by Forage. In this
 **Recommendations for a successful IPO:**
 
 1. Develop a Strong Value Proposition based on the top-performing content categories.
-2. Showcase User Engagement and Growth: Demonstrate the platform's user engagement and growth metrics to potential investors.
-3.
+2. Showcase User Engagement and Growth:
+- Demonstrate the platform's user engagement and growth metrics to potential investors.
+3. Highlight Future Growth Opportunities: 
 - Identify potential growth opportunities within the content categories.
 - Explore partnerships with educational institutions in the studying category.
 - Consider collaborations with health and wellness influencers in the healthy eating category.
