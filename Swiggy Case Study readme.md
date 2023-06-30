@@ -3,9 +3,9 @@
 **Tool used: MySQL**
 
 ---
-This project was a short case study on Swiggy data.
+This project is a SQL case study on Swiggy data.
 
-**The following tables were used:**
+**The following tables were being used:**
 1. Food
 2. menu
 3. restaurants 
@@ -27,8 +27,7 @@ This project was a short case study on Swiggy data.
 10. Month-over-month revenue growth of a restaurant
 
 - Answers to a few of the above questions:
-
-**For more details, please visit the project link above.**
+  
 1. Customers Who Have Never Ordered: **Anupama and Rishabh**
 2. Restaurants  with  Monthly Sales Greater Than 500: **Dominos and KFC**
 3. Restaurants with max repeated customers: **KFC**
