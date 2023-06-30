@@ -5,7 +5,9 @@
 ---
 In this project, I performed exploratory data analysis of Bangalore-based restaurant data.
 The dataset was taken from Kaggle. 
+
 The task was to perform exploratory data analysis to uncover insights into restaurants' menus and services. From identifying popular cuisines to analyzing ratings and reviews.
+
 This analysis will help new restaurants in deciding their theme, menus, cuisine, cost, etc for a particular location.
 
 |   | address                                                   | name             | online_order | book_table | rate  | votes | phone               | location      | rest_type          | dish_liked                                              | cuisines                          | approx_cost(for two people) | reviews_list                                            | menu_item | listed_in(type) | listed_in(city) |
