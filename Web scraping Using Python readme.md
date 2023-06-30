@@ -1,4 +1,4 @@
-## Project: Web Scraping Credit Cards Details 
+## Project: Web Scraping of Credit Cards Details 
 ### About The Project
 **Tool used: Python and Excel**
 
