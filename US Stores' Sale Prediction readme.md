@@ -3,7 +3,7 @@
 **Tool used: Python**
 
 ---
-In this project, the goal was to predict the sales of stores located in the USA with the help of machine learning techniques e.g. 
+In this project, the goal was to predict the sales of stores located in the USA with the help of machine learning techniques. 
 
 This dataset contains information about Sales Values in Dollars of American Stores between 2010 and 2011. In particular, this dataset contains:
 
@@ -23,5 +23,5 @@ This dataset contains information about Sales Values in Dollars of American Stor
 - Finally, created a predictive model using Random Forest Regressor.
   
 
-**For more details, please visit the project link below.**
+**For more details, please visit the project link:**
 https://www.kaggle.com/code/mohd647/us-store-sale-prediction
