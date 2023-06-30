@@ -36,7 +36,10 @@ etc.
 5. Action Figure
 - Product that has most sales in the last 6 months:  **Colorbuds**
 - Products that have had a consistent increase in sales for the last three consecutive months: **Action Figure**
+
+
   
 
 **🔗Queris PDF Link:** https://github.com/Shajar87/Project_Portfolio/blob/main/Mexico%20Toys'%20Stores%20Case%20Study.pdf
+
 **🔗Dataset Link:** https://mavenanalytics.io/data-playground?search=mexico
