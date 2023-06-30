@@ -1,4 +1,4 @@
-## Project: An analysis of data of Social Buzz’s Users
+## Project: Analysis of Social Buzz’s Users Data
 ### About The Project
 **Tool used: Excel**
 
