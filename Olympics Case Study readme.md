@@ -15,24 +15,21 @@ The dataset contains historical data of the modern Olympic Games, from **Athens 
 
 This case study provides an opportunity to know about the Olympics e.g. how the Olympics have evolved, including questions about the participation and performance of women, different nations, and different sports and events.
 
-Used some of the common to advanced SQL concepts such as **joins, window functions, CTE, subqueries**, and more to answer the questions below:
+Used some of the common to advanced SQL concepts such as **joins, window functions, CTE, subqueries, etc.**.
 
-1. How many Olympic games have been held?
-2. List down all Olympics games held so far.
-3. Mention the total no of nations who participated in each Olympics game.
-4. Which year saw the highest and lowest no of countries participating in the Olympics?
-5. Identify the sport which was played in all summer Olympics.
-6. Fetch details of the oldest athletes to win a gold medal.
-7. Find the Ratio of male and female athletes who participated in all Olympic games.
-8. Fetch the top 5 athletes who have won the most medals (gold/silver/bronze).
-9. Fetch the top 5 most successful countries in the Olympics.
-10. List down the total gold, silver, and bronze medals won by each country corresponding to each Olympic game.
-11. Identify which country won the most gold, silver, and bronze medals and the most medals in each Olympic game.
-12. Which countries have never won gold medals but have won silver/bronze medals?
-13. Break down all Olympic games where India won a medal in Hockey and how many medals in each Olympic game.
+**Some of the questions are as:**
+
+1. List down all Olympics games held so far.
+2. Mention the total no of nations who participated in each Olympics game.
+3. Which year saw the highest and lowest no of countries participating in the Olympics?
+4. Fetch details of the oldest athletes to win a gold medal.
+5. Find the Ratio of male and female athletes who participated in all Olympic games.
+6. Fetch the top 5 athletes who have won the most medals (gold/silver/bronze).
+7. Fetch the top 5 most successful countries in the Olympics.
+8. Identify which country won the most gold, silver, and bronze medals and the most medals in each Olympic game.
     
 ---
-Answers to a few of the above questions:
+**Answers to a few of the above questions:**
 - **France** and the **United States** have participated in all the Olympic games.
 - Ratio of male and female athletes who participated in all Olympic games = **2.9795**
 - the top 5 most successful countries by no of medals won in the Olympics are
