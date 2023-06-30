@@ -10,6 +10,8 @@ The task was to perform exploratory data analysis to uncover insights into resta
 
 This analysis will help new restaurants in deciding their theme, menus, cuisine, cost, etc for a particular location.
 
+**Dataset Review**
+
 |   | address                                                   | name             | online_order | book_table | rate  | votes | phone               | location      | rest_type          | dish_liked                                              | cuisines                          | approx_cost(for two people) | reviews_list                                            | menu_item | listed_in(type) | listed_in(city) |
 |---|-----------------------------------------------------------|------------------|--------------|------------|-------|-------|---------------------|----------------|--------------------|---------------------------------------------------------|-----------------------------------|-----------------------------|---------------------------------------------------------|-----------|-----------------|-----------------|
 | 0 | 942, 21st Main Road, 2nd Stage, Banashankari, ...          | Jalsa            | Yes          | Yes        | 4.1/5 | 775   | 080 42297555       | Banashankari   | Casual Dining      | Pasta, Lunch Buffet, Masala Papad, Paneer Laja...      | North Indian, Mughlai, Chinese   | 800                         | [('Rated 4.0', 'RATED\n A beautiful place to ... | []        | Buffet          | Banashankari    |
