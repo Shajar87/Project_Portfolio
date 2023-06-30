@@ -41,9 +41,9 @@ Answers to a few of the above questions:
 |----------------|------------|------|
 | United States  | 629        | 1    |
 | Soviet Union   | 330        | 2    |
-| Italy          | 263        | 3    |
-| France         | 233        |      |
-| Germany        |            |      |
+| Italy          | 284        | 3    |
+| France         | 263        | 4    |
+| Germany        | 233        | 5    |
    
 
 
