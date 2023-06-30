@@ -32,6 +32,20 @@ Used some of the common to advanced SQL concepts such as **joins, window functio
 13. Break down all Olympic games where India won a medal in Hockey and how many medals in each Olympic game.
     
 ---
+Answers to a few of the above questions:
+- France and the United States have participated in all the Olympic games.
+- Ratio of male and female athletes who participated in all Olympic games = 2.9795
+- the top 5 most successful countries by no of medals won in the Olympics are
+- | Team           | Medals Won | Rank |
+|----------------|------------|------|
+| United States  | 629        | 1    |
+| Soviet Union   | 330        | 2    |
+| Italy          | 263        | 3    |
+| France         | 233        |      |
+| Germany        |            |      |
+   
+
+
 
 **🔗Queries PDF Link:** https://github.com/Shajar87/Project_Portfolio/blob/main/Olympic%20History%20Analysis.pdf
 
