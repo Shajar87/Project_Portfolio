@@ -36,7 +36,8 @@ Answers to a few of the above questions:
 - France and the United States have participated in all the Olympic games.
 - Ratio of male and female athletes who participated in all Olympic games = 2.9795
 - the top 5 most successful countries by no of medals won in the Olympics are
-- | Team           | Medals Won | Rank |
+  
+| Team           | Medals Won | Rank |
 |----------------|------------|------|
 | United States  | 629        | 1    |
 | Soviet Union   | 330        | 2    |
