@@ -11,6 +11,13 @@ This dataset contains information about Sales Values in Dollars of American Stor
 - Products' ID, Description, Type, Category, and Sale Date;
 - Accounting Info, such as Budget Margin, Profit, Total Expenses, and Marking.
 
+  | S.No | Area Code | State       | Market | Market Size  | Profit | Margin | Sales | COGS  | Total Expenses | Marketing | Inventory | Budget Profit | Budget COGS | Budget Margin | Budget Sales | ProductId | Date                | Product Type | Product    | Type    |
+|------|-----------|-------------|--------|--------------|--------|--------|-------|-------|----------------|-----------|------------|----------------|-------------|---------------|--------------|-----------|---------------------|--------------|------------|---------|
+| 0    | 203       | Connecticut | East   | Small Market | 107.0  | 176.0  | 292.0 | 116.0 | 69.0           | 38.0      | 962.0      | 110.0          | 110.0       | 160.0         | 270.0        | 2         | 04/01/10 00:00:00   | Coffee       | Columbian  | Regular |
+| 1    | 203       | Connecticut | East   | Small Market | 75.0   | 135.0  | 225.0 | 90.0  | 60.0           | 29.0      | 1148.0     | 90.0           | 80.0        | 130.0         | 210.0        | 2         | 07/01/10 00:00:00   | Coffee       | Columbian  | Regular |
+| 2    | 203       | Connecticut | East   | Small Market | 122.0  | 195.0  | 325.0 | 130.0 | 73.0           | 42.0      | 1134.0     | 130.0          | 110.0       | 180.0         | 290.0        | 2         | 11/01/10 00:00:00   | Coffee       | Columbian  | Regular |
+
+
 ---
 **The steps involved were as:**
 1. Cleaned the data e.g.
