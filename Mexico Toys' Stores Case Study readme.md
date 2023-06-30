@@ -38,7 +38,11 @@ etc.
 - Products that have had a consistent increase in sales for the last three consecutive months: **Action Figure**
 
 
-  
+**Benefits from this case study:**
+
+By finding the answers to the questions in the PDF, one can gain valuable insights into the toy market. Analyzing sales data and trends can
+provide a clear understanding of the market's dynamics.
+More details are in the Queries PDF.
 
 **🔗Queris PDF Link:** https://github.com/Shajar87/Project_Portfolio/blob/main/Mexico%20Toys'%20Stores%20Case%20Study.pdf
 
