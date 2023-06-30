@@ -1,6 +1,6 @@
-## Project: Analysis of Social Buzz’s Users Data
+## Project: Analysis of Social Buzz’s Users' Data
 ### About The Project
-**Tool used: Excel**
+**Tool used: Excel and PowerPoint**
 
 ---
 This project is a part of the virtual work experience program by Forage. In this project, I need to deliver solutions to the problems faced by Accenture's client, Social Buzz. Social Buzz is a tech company that is facing big data problem management and it wants to expand using its users’ data.
