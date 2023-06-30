@@ -1,4 +1,4 @@
-## [Project 6: An analysis of data of Social Buzz’s Users](https://github.com/Shajar87/Project_Portfolio/blob/main/Social%20Buzz%20data%20analysis.pptx)
+## Project: An analysis of data of Social Buzz’s Users
 ### About The Project
 **Tool used: Excel**
 
@@ -33,9 +33,7 @@ This project is a part of the virtual work experience program by Forage. In this
 3. GIF
 4. audio
 
-![alt text](![Uploading Picture1.png…])
 
 
-**For more details, please visit the project link above.**
-
-**🔗Dataset Link:** https://github.com/Shajar87/Project_Portfolio/blob/main/Social%20Buzz%20data.xlsx
+**🔗PowerPoint Presentation Link:** https://github.com/Shajar87/Project_Portfolio/blob/main/Social%20Buzz%20data%20analysis.pptx
+**🔗Excel Workbook Link:** https://github.com/Shajar87/Project_Portfolio/blob/main/Social%20Buzz%20data.xlsx
