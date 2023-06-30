@@ -29,7 +29,7 @@ etc.
 
 **Answers to some of the questions are as:**
 - The top 5 selling products:
-1. Colorbuda
+1. Colorbud
 2. Deck of Cards
 3. PlayDoh Can
 4. Barrel O'Slime
