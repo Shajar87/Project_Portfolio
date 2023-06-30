@@ -1,4 +1,4 @@
-## [Project: US Stores' Sale Prediction
+## Project: US Stores' Sales Prediction
 ### About The Project
 **Tool used: Python**
 
@@ -25,12 +25,12 @@ This dataset contains information about Sales Values in Dollars of American Stor
 1. Cleaned the data e.g.
 - Changed the date datatype and format.
 - Dropped some irrelevant columns.
-2. Visualized various features through different plots, e.g. regression plot, histogram, line plot, etc.
-3. Build a machine-learning model using the machine-learning technique (Random Forest Regressor).
-- Calculated and plotted mutual information score for discrete & continuous features.
-- Did preprocessing and label encoding of data using StandardScaler and LabelEncoder respectively.
+2. Visualized various features through different plots, e.g. **regression plot, histogram, line plot,**, etc.
+3. Build a machine-learning model using the machine-learning technique **(Random Forest Regressor)**.
+- Calculated and plotted **mutual information score** for discrete & continuous features.
+- Did preprocessing and label encoding of data using **StandardScaler** and **LabelEncoder** respectively.
 - Finally, created a predictive model using Random Forest Regressor.
   
 
-**For more details, please visit the project link:**
+**For more details, please visit the Kaggle notebook link:**
 https://www.kaggle.com/code/mohd647/us-store-sale-prediction
