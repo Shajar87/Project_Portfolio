@@ -44,6 +44,8 @@ This project is a part of the virtual work experience program by Forage. In this
 - Leverage these alliances to tap into new market segments and expand the user base.
 - Communicate the potential benefits of these partnerships to investors during the IPO process.
 
+  
+
 **🔗PowerPoint Presentation Link:** https://github.com/Shajar87/Project_Portfolio/blob/main/Social%20Buzz%20data%20analysis.pptx
 
 **🔗Excel Workbook Link:** https://github.com/Shajar87/Project_Portfolio/blob/main/Social%20Buzz%20data.xlsx
