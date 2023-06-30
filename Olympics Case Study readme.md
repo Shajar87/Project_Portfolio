@@ -17,7 +17,7 @@ This case study provides an opportunity to know about the Olympics e.g. how the 
 
 Used some of the common to advanced SQL concepts such as **joins, window functions, CTE, subqueries, etc.**.
 
-**Some of the questions are as:***
+**Some of the questions are as:**
 1. List down all Olympics games held so far.
 2. Mention the total no of nations who participated in each Olympics game.
 3. Which year saw the highest and lowest no of countries participating in the Olympics?
