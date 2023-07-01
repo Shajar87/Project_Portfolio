@@ -1,6 +1,6 @@
 ## Project: Mexico Toy Stores Case Study
 ### About The Project
-**Tool used: pgAdmin**
+**Tool used: PostgreSQL**
 
 ---
 In this project **"Mexico Toy Stores Case Study"**, I used SQL queries to answer some of the fascinating questions about the sales of a fictitious chain of toy stores in Mexico.
